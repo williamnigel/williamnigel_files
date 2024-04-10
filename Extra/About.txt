@@ -1,0 +1,3 @@
+MHDexBot:
+-A Discord Bot running on few Monster Hunter related servers
+-The servers: Citra- Monster Hunter 3U ; Citra- Monster Hunter 4U ; Citra- Monster Hunter XX

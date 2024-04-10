@@ -1,0 +1,1455 @@
+{
+	"example" : {
+		"monster" : "name+game",
+		"hitbox" : "url",
+		"source" : "from where"
+	},
+	"3": {
+		"aby": {
+			"embed": "Abyssal Lagiacrus MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV_1zXUQgR8nGso9Em0ZDj_Vv0AaSBom4Hmt54jx3O524AgQ0o8h7eBeYERrP37ADq0PLJpk6rfvo97093-wZDRUH0tHJ4TUSIynppWiNIwqu1iVTBuyvgnXhZtDf-tugFNvoR0AaBZWszqunvIDWf8=w1043-h453-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["alag"]
+		},
+		"agn": {
+			"embed": "Agnaktor MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXjtESdsUzKl450icO3e5Xpt6b9dYlseMj_zXANxdtjRKtsME_XnujqsoTLOvXAaxbYPwC4K8WMfOHRrY_r_BqmbvZ44Dr8XmPtSpa5qZjHkLGuDRudXKbII5dCUB766oTh_z1tlaVyJo4cKKO9R8la=w1043-h647-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"ala": {
+			"embed": "Alatreon MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVFEj5kQsFf8s-tpSzisNYZgl0G7MHOrADu0jfplGoyper0tFlj--UqltgYnSRindLDdH1Nn1qtHKCF6HpioQuNu-jPu8LEHfRvr-WJXYfCjFBZHk2DFlRUgQFiNKbRSjNM0GVEsSL8nXk88q6rMGXZ=w1042-h618-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"arz": {
+			"embed": "Arzuros MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXeNvNv4UGM5TfnahuCFwLc_67aVqL7Y0R9h3l-QZAlqkCqfSefszajPCsebDGvX0GQO6N_aqjBQOqTlawbRkGdH4RYY3G-aIMBmUjDKlynTBmeGJSMwIPEYgZ3YvxVv8g2ZkOBDP7_0aID7weP1eXv=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["bear"]
+		},
+		"azu": {
+			"embed": "Azure Rathalos MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXjvl69jDp40H2qayBDT4hyvkg2c87QXsD5Tfm4OQGnD1pVsFjmOPXPs7EzWXhkpcbUWU01_USzx24xuSNSzO1UOyGO8MFpw3BRN1CAf-Qjl_ho7NWKLckLigIS6IVEg5I8tfs0GSR5UHfGKvbrTR2Y=w1044-h507-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"bal": {
+			"embed": "Baleful Gigginox MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVgNxU4TP3eyGSCKOR4__jILa31WXWDlA4ewEMr--erIGzB4k7iB5nczf0jf9PPwu2zfwHCf4JWOGhMrRWINTpqr5WNxUXWgVwcSDktOapkG3fDas2Tlp9-tIbbwYaFrGRiXK_Xr2hsMtNI6MHeilAv=w1045-h592-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["bgig"]
+		},
+		"bari": {
+			"embed": "Barioth MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVQWaTp8w42DMICVL47BQVDI3RSa3yRPkImRe2gX4nlrDcfQpsuOU-ssHCcXBst-4fuicG2s0uchCf8WecSS4HNxA3QOAF0tDJV4kiMrXU52IWv__lgVEOVDzVCDFspmefR3g1W4L_vSRNQ54wJUzku=w1043-h481-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"barr": {
+			"embed": "Barroth MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWVkSaQnDTJ27TjWCfG-hmEflR9y6litPzGRu_vDqwLi2NJYP3Sb7ePiPo4YKSglexvL89_Eg2H-VvPMhyzRH1KGgtabBpg4vNx3exSjgfz3HV96EbgneXdKjBgmpAMRcuQlyP09qGXAim28SWxukgR=w1043-h566-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"bla": {
+			"embed": "Black Diablos MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUdV2JBrERNu35jnI3_XlmVQrirY1FB8ZugjQoVKnSKk8KZMtmtS_UDAdQTcea6IPE4ND1OtybwKOICHf37YgZQw-r5uZGh2HkE0EoXHb_rhPA2vAnkfigHrFEuXZKKm_P0mPwSJKISOBRKLL8e33RU=w1043-h508-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["bblos"]
+		},
+		"bra": {
+			"embed": "Brachydios MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUNEVV_v0MtWXHstOe0oMjlDFgLR70Xwyidfk6YCaLFMW1t_BGaVdtuO74x1PbLCbEs1JJR3Vg57bZsmPyJbsHv_HnVmIERuuxDsq2VkqsAhThPwMRwCgisfRm1TKxR7E-51-_Npa7mHc3npT__z6Hd=w1045-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["dio"]
+		},
+		"cea": {
+			"embed": "Ceadeus MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX4zPeutB1SXxFRu4vMaDRUSdJOIr257-bvnOHzF4re6OFYi9-eylxB_Ua9ac64OIBP4JHiR5y2JpOvFdZDAnm5xk1VGlsh457sMe0ZzgsdDEKm1cKrp_DL7dQFsDezf0FZ7OiM30cK5M5usWX81h4K=w1044-h510-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["deu"]
+		},
+		"cri": {
+			"embed": "Crimson Qurupeco MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV-doRsgNbSeKFnx6AiXgfVWsr9GsbiERjoAyvyv0AHkdnpjsVWCXRhDltEuVyTQQ8_KXeqAmz2goKGPA33s7Mz9u5F445Ke7VPrY9S19VrZCGx_d_RGHWsIyrObhIoc2aBfJGQGCqQglAZknMCYXa-=w1045-h510-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["cpec"]
+		},
+		"dev": {
+			"embed": "Deviljho MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXmuwAPXZHIWKz5bQbScCnchD7S83gtKanjgVBhYuyAGaoytypBFMaBkzUTh1SbI_VkoGCCHoVIDq04Fo7ReppoLrhzdhIAzp2r_WtpFMypfV7tHW6F_sRFxWuLsqEPrPNXmcdh0ciBWIb4DILxbogG=w1043-h620-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["jho"]
+		},
+		"dia": {
+			"embed": "Diablos MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVUmfD72xaKJcNP_OirtFk77jZHc2EO9oG_BPsvZvsZACiTAOWgsh3GiON_OQrPUDeHrtEG37rQUJ-7w7f1I-gIV9EoCR6z9zh19QRkEJHuTlHoERcUbSAQyOMUOl1jbJmauDoWPtwwIG6q67mCWHyZ=w1044-h510-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["blos"]
+		},
+		"dir": {
+			"embed": "Dire Miralis MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUTeA9V-0BPa9u4aRcklEjh5i7jr1y1udB3_mjI5eLMkMHmQol13uLfgOqTYuFLY0t-_kxaAvTyOaP3v-Qt1eb5Lc2UuoDbr5jL95QvdGFyphCpR0ABRqWihziM9cylck8j7IpzMOWJ39qVDwDsdgJ-=w1043-h675-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["mir"]
+		},
+		"dur": {
+			"embed": "Duramboros MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXK3GImBAgLAt1Jr-AokSE3gemap_3Cd68ZkaSb9s4TPzKmKqs2ghtCbpadSrQOfRe3z6uGLYxB0LZonTkFYPVV15D4JdgErh41lDnWxRwuUt_HjYf2kPFwa07DwpQ4V7PS3qzb71o6zmvoBeJedPA7=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"gig": {
+			"embed": "Gigginox MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUpEZWb_hN58zBy1zC7Wo8A0iCPMQozUHhMct4vgjIdhs6dW9g7S_Z0W5Yk9V09BOVGT9pdRoDUd-go6pYf2MH2zYS5AuRpIkYV928ClpSXhK58p8jAl8hZg5LHZXzG-zoYR4AXEbAbBHEvz1zuvzQc=w1043-h592-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["nox"]
+		},
+		"gla": {
+			"embed": "Glacial Agnaktor MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AL9nZEVgpAxn5Zs4_dGeccyi4qEEYOfiP9j42buJ0dPGfkG7x3C0q7WL7dKrqEg9bhynDwDmy9SkD7oiomOle0zllXiJ_5Nxbo6lgF28aqqGhmRA1QQBp5QZSxJbSEP8D0NV1aTKC2nT1LfZER5fqlhxZTHL=w1046-h677-no?authuser=1",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["gagn"]
+		},
+		"gob": {
+			"embed": "Gobul MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXFJQugNbGtviTIvIIBroPPcij0dKldI8-U_peM3TbymVlCXMkWCL_cFzDKKFVlxYMTJUNanQbOV9AHZJQhNe7SnJf5gmu7vvCbXoZ3IhBGn8Te-eS0uovt-QHNHC3Zq0xSSnUar1NtJKJPfbk3dAu9=w1044-h592-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"goldb": {
+			"embed": "Goldbeard Ceadeus MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWcQUT2vCLpj1VBGhdZI5DCLru62Wv1dWk0fUGw0plUK2KnswvMef__K7M83XwT7m1uoF346zZO8hCsVoS9gFQ3annTSddvQrHj0CMkI3e9RKZEZ1ZjBkPnjfCs_5R86_muplPk9aHgfvEjUbEQlvkp=w1043-h508-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["golden c", "gcea", "gdeu"]
+		},
+		"gold": {
+			"embed": "Gold Rathian MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVJbDRqHIk-ln8JkvE0_J8xqY68Fr7tB-4L2r9mPPli_hKqnyL0yz5TanFfnhq5XAImiolKhsjfMLdCXPLIz_ZdSGqgwRJVYws-5JubVZGmQB1SDnbzAhVlCR0Lq1tj1u8pK1pHGIwhRAx9XXvdpwVe=w1043-h508-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["gian"]
+		},
+		"great b": {
+			"embed": "Great Baggi MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWdIf6rdwpfzqqv0vDrmZYGh7ScCgyuLkEzAg_SoFMx_DysYfElmvSBRgoU8DH-3H59BnJd718VkUdCELJVM-XgJV8KnyXmpuyrzau-5mK2E6VDvg4VGqvdNxCBkgyBS2HLGPuYBd5O4JucUYPLBtTH=w1045-h372-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["gbag", "bag"]
+		},
+		"great j": {
+			"embed": "Great Jaggi MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUqKF4lhQGZ0xY7DaZwNScOhedxWDeI058XmRXz-MLfBxxKKDqdejd-IhC1OdsIfEwbvhjVlrM5asobGLGQmMVqrrKRtbufvbBb8EDcKXDITIjTS4ZZ21WVDO0WvZsD2lTlWApC3I0oDRGfTdab_5KM=w1043-h372-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["gjag", "jag"]
+		},
+		"great w": {
+			"embed": "Great Wroggi MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVbgBJSFcxUvqHlE6AzjZDzrvuPvwBBTLQzyQhGORktNvcXZu-FOnBG__njundfLwu2_IUFX5m9JtL5mwb_noW93d-D7g6czrA-TB-TCD1lKAopX_PhLCZSkpeVCFk9TbM49DDr32BOxaM5qonTPa9T=w1042-h370-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["gwro", "wrog"]
+		},
+		"green n": {
+			"embed": "Green Nargacuga MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVj7W8TkRKlKncSlYtZzlD-UchRHPty-wD13qjtCQCA-wOJM2tLdtY_FtvrZeVm6gpyua-r5Qa2-DsW-iQW66Cv4ZZOwVg5RRjsy1hjBqjt-o99iqM_mINgvMj1f0N8Z6CMpjxEx5UkRQkUYlDzZEIV=w1044-h673-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["gnar"]
+		},
+		"green p": {
+			"embed": "Green Plesioth MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUWzR_Llqddt58_mQpZrhR8o6EkK0MmE9SS-xKFHvFpF-if1IoObsISJ5cUpw9DZ6UYz6a5uYBbMVpS5BU_vdnmcaYpwgzLnUQ0Ugis93IUb78kL5VP4IPY2ZRKImDXlyALl--2hoJHR4Om0L3HxPMB=w1045-h483-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["gples"]
+		},
+		"hal": {
+			"embed": "Hallowed Jhen Mohran MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVXElRE80KLL6Anl_ZAT-U7BjIzWqleyR32eR-K0ACXX0CciWMNeZu4hfdW-eL3Sj4a3ksqU1oCfjU5M7_oMuAm9XPxiPpvTPgAFDIdm7tSJzJSSnAU-PCYV3-Dui77EiuRpLTh6PsxeEi7QCFISf_d=w1044-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["hjhe", "hmoh"]
+		},
+		"ivo": {
+			"embed": "Ivory Lagiacrus MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXaE8PVbEs1QubvWK0g0F9OYTm4l2SWaaXWjydXi-YnJyRWGNVvYwXPomOHWTJNCLwUg82QP7rzKw2ZSJ5ux5hK2xOou99T3QWbTODJCq0z18Fwn83kqAZM7DGW70TlaEJcO94uV_C36yiSsIJR1T89=w1045-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["ilag"]
+		},
+		"jad": {
+			"embed": "Jade Barroth MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXdYo4peB7zyI0Za2YWWwZbZtRSVTcrEvjMalJF2vDGoPf-Dh9rufB4wSRtl-1uIG_7185xFvXS5_jgvcvRvft8vkwra_F8Kyoori6v1_7ttho654rlfmq2qHQ_OKbWVDRPgYKQqvAxuzEYga6nLa5O=w1042-h565-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["jbar"]
+		},
+		"jhe": {
+			"embed": "Jhen Mohran MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU3ZGcGLp4w1J8x68Cgzrtz48rVTJkiz7bPSudy6aNbMxSeqRLwaTM2_4g2BcOHU41nTTWKWrJinb_d7zMAnCSNCvx4Kz31y9L1vVIYnF9825xg3TpTsIJRln7NgDx8zZDrSv4ozda3ZzbmJI48vZLS=w1043-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["mohr", "mora", "whale"]
+		},
+		"lagi": {
+			"embed": "Lagiacrus MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUUZMRRqD8dJxk2JQemocaZtlT4dA2q5LRI_yc7HWpZ3HHEQ6HMI4GucfiJDV2QVVu3VA2zCoJmqewsZX4gJO9z7bxFOD4AqSmyA9do-JIHbE8DX2Xs4TSPgNDYAUQvIvYyC_kuu3T7l2ZfptqOJPk2=w1044-h456-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["lagg"]
+		},
+		"lago": {
+			"embed": "Lagombi MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUQb6ki_TL6SWJzq5ooaZNeDuH7X3Buiv2pNMr6bowr2VVasMjpCZ26RKM_YWEoftnlA7YoPEfeArTO_CIZ0OmIo_8GOw9bNj7n_jvLFAyJKwkX_fu713k36cCLMs4HMEgHImQlbvS83gghS0IpBr32=w1043-h427-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["bunny"]
+		},
+		"luc": {
+			"embed": "Lucent Nargacuga MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVEAe0c19UN_2LapynrG6iXw4EmUs0feRNeAuJf8kjPBUO09B80YyZbkrwMN0t03eCuNjbT2qzDaWkuu_XUyIiuCDrQBhBdVpWeFIgb7S0XZYnHrxTyADuJ8gFHKR7igjri7gqzjPkS_xHRxLOxnQh4=w1043-h562-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["lnar"]
+		},
+		"nar": {
+			"embed": "Nargacuga MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUn42RA8gymdzJn3R_QNHyqCYmKvLaNCyjsxFRv7QdauUCHHC4toFIh-y7Y7HyxzzC2qml9WBrUGccPN91_Y62is72JWa1s0iLr0FmiQKVisy1IJOm5Lx0SiN7_ASfHIoUaRfu_R0kks9e-ComW2hGU=w1044-h563-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"nib": {
+			"embed": "Nibelsnarf MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUs1iDyhzqQuAJvR9d9Skgx6cKRSYODXi-lhChrpNs3z_bKbm0gY-7JQXmjmsBLeb4xUmo8_mnDBmuABYvHISESAdf32hqTi3mSx6gcjTpW0VqWziFTuOQEebqx2ZqlLbpYUtli5_gujmHKinqzG0X8=w1045-h592-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"pin": {
+			"embed": "Pink Rathian MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWsu1ssnpLUhNy_eN6JBysCvmnN5Z2amrT2Os9qO-nPoZNKd_POIi_5Jtg_n_4I-7dPSrG6ipmN7NVMLIYNNBulEr2SZIj6u_CpwjYKenIVo9u05zTEuyafQTjCNaLlipIUgrZpqwCGQlggbW7gYgqO=w1044-h510-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["pian"]
+		},
+		"ple": {
+			"embed": "Plesioth MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXAKWFCPBR5PrGkrCpRAwX3Gzl_Rx3nDsjrrsMznQeYTGyw8yGsSaduufBET4hpWAT995pyMFiNlrF_-2xd1RnVu6yLbq_PMyXXjeLKoNSvRqdn1ks7pS5ndgWpPdNp0_ysW0G3Wq4lkRjB72gld70Y=w1044-h481-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"pur": {
+			"embed": "Purple Ludroth MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVAson0ENj6l18_ICAd0fl7TnvyRFyaCm1iHxqWdvWzL1PSQ70bKT0LmZ7gS1rkLz1s4qrirJ5obECbhqxOeKTSmeLKZSu1Bn8qRzCQc1-UEbpoammBU5YRVylrdv69cospEeJ03wdlwyIJLvvJ3F9T=w1042-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["plud"]
+		},
+		"qur": {
+			"embed": "Qurupeco MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVcIcFpbFGXzq52UAI8_jG2Pw2BrWYpTj9Xen61DwjxssKUYriE9TgfqBpIvGOUZgT24I7oqZ3itl-IhsJsPsYtOdoO-emCgPcMAhoTIG3kRM6x_6YHnZm-KjF6lDR8zFVwN1OzHWIf9G3-IixBHnGo=w1043-h508-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["peco"]
+		},
+		"ratha": {
+			"embed": "Rathalos MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU3yVdQ0r5K2aiVWO85l3zWMVPa5TCor-9Jle6_DbeScjbJw1vF_QlyDZKeGpx9Gi42R9uDI28lub2lklJQ_nX0NlVOlZY1MKhvOMEK_9JZfXnm2NNCthB8rSNoIExUruT0qaxJDk81OFkGV1XX6r0F=w1046-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["los"]
+		},
+		"rathi": {
+			"embed": "Rathian MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLULecCNkPchdSk4QKimRurihJpcI4n4kO9ZqF0rSw3TBfUPgIuLfEytJTubbrsegX18rry6MeYostTuTEki8cs5rMAOmbTGO1cFc26Zp16ECpwMBPZaXC56vf6vWzHYMZGEplVp-qvZFR3nibx7XYHn=w1046-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["ian"]
+		},
+		"roy": {
+			"embed": "Royal Ludroth MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXVi87ZnoClG25AOUsbGJtmb2-ZsJOVEdC9Iufiyi9mP-Cl18D15Oodkxobi1R7mSg1nzI41SFe7fK71subcLdzLCIwskVJIRzPZyKeOqdeC8BuBf6y-ShT68YkD-KYmbh46bwSjRk3M7-v9sQHRKSX=w1045-h537-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["lud"]
+		},
+		"rus": {
+			"embed": "Rust Duramboros MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVkGb9dAe9M40Q1miIsGQiC_uR2SArri-IRaJ-fHt3_aKLo8To0dD3BhBqzzN5XZuOonUSGgSTqcXOjr0PGP0G_o8D4q2LcLZ9K2zM7-eGzJvqwj3u6AKo5OpunSA3voSUI7hNuJ0Mk4e5vnrP92WDd=w1043-h536-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["rdur"]
+		},
+		"san": {
+			"embed": "Sand Barioth MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVONUURcWYOFObGdWGXDUwDa3s-WlqR07iZZ6eqaQgFOAaoRgAx5NnpcieTccwKRE6RmknydMFxfaK4dmbBvEWqWd6sDNFpS61FCVWj10FLs7k3GjGf7AG0lBnFsk5PTtvlR67DpWL-lezBHiH8TOLF=w1043-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["sbar"]
+		},
+		"sav": {
+			"embed": "Savage Deviljho MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXP8jkoDR80PyIVhjq3MQPVDr87t_ZGzW2FwYUIVsLFdV6StLGGcDAzu8QVDTTDGswv6o9AboJY9QPKjZV3KKLmgXW3WSJ4De96aj_P5CV9WLD5bqvzg9RawIphJbJztGbNBW49ghulhZmeCTqgS0HI=w1043-h591-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["sjho", "sdev"]
+		},
+		"sil": {
+			"embed": "Silver Rathalos MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXixJMA7djGxNtK2IB9mQFL_ef7LjyhE1FFJAvU9a9DnDNA-Sjj4d5Kyul1dNvRdC5Khx4je_vZwuP1ygb10YQTUeZzAFjxEg9GxwnDpXYpHT-7RZ9Z0S00ulgrdGOHsaXAB1Q07S1sj6Cbt80UkRc0=w1044-h508-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"ste": {
+			"embed": "Steel Uragaan MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWDv0XxTZrZ9AFoTMqPaq0NJE_3yFN1TQi8gv6wJ9ACd_ZlU0D-6uTD2-wig8VIXDxZgY3vnKU__tcolGyaq8yZeSXawjgp6dzGSipS69e3m3fDYr0oP5jIG9FcFVOJeUsRatQ94l0FPYmW85FRnA7x=w1045-h538-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["sura"]
+		},
+		"sty": {
+			"embed": "Stygian Zinogre MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU_0ykVvz1NNYw38OMaWRzposkK9d9QPr3gnQ0n2sBtr6lRes7nADzAbv9IiYGt7YrW-Aay2kTwd293hN9z_kXX0Sr1M_zkpf24KOi0hDgkFZITjKYlVG-hBNunlERsraI27mdl8lL1sGJ2JAzE3PWu=w1042-h730-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex",
+			"alt_name": ["szin"]
+		},
+		"ura": {
+			"embed": "Uragaan MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWREoEsc6IIsdG-c8Rq6mJGOyCi5KGe32qXOogP4TeYBLjX1Pcw0HKBmrvDwnC8coBDKJb0fv16_f3KwuTwWrbWPHnRr2E_FBf8aUCVz9huXK-4NvwYe44NHUzrIoJ1LRShVdJfvHrn2gxbnAV94qm_=w1043-h535-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"vol": {
+			"embed": "Volvidon MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV4rCuP7eH2mDHJuHhgAJXGNUDDyHc9M9P2NRTtLq5CHGDyXUdB9-nIOHascbZ-8gLe1Yk0l71dkHmQyJJw5HUNCCRqbBWtqKusp1sz_PGJd-frlEm3076EAr-tsQ2SSnNxsE9GSD9mIzSLwclRko6s=w1043-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		},
+		"zin": {
+			"embed": "Zinogre MH3U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AL9nZEVOqFErIDoc1ZgcipuaVYhj4BnS2Hvidvv8bfUcRXdaIZ1rPtJfj4O0lNBwXu0Uzb-SBkLZnw75V2uE9_UZ9feyi3HKdJhyTUGnBnS4mzEYPgC1GIzr7ySW6fcTnCdEhPGukaRTeGqu0VN7QAJK10Xf=w1045-h703-no?authuser=1",
+			"source": "Credits:\nPing's MH3G Dex https://sites.google.com/site/pingsdex/pingsmh3gdex"
+		}
+	},
+	"4": {
+		"aka": {
+			"embed": "Akantor MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWISPS82lyfujocek1_XTwemQQ3Ig35QqTvYWL05xjq6IHjCnUbmnqHowugJi9sX_skHb_bfpqFnNkqK-SpWZM6YWTiKR68oPYiCq-amUPhbDImNZH1XI8tlye4tOSeHsnJRDrmtD3GCWYOKSFj-hLV=w1046-h673-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"apex dev": {
+			"embed": "Apex Deviljho MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU0ydBwsrfMRknNjyWoCo8NfCN3JGM8JtBQgUP-NUY-bnNYpyFg-e8HXY3IfD5nGsCOxIk0_Tm8gjnSkRNY7fBoECCMa5s7KZnLFo_9iVZfjpZysUtTMVtGNKVe3sdCaUeT3OGWPq-NI9DHY4rvsf-5=w1100-h791-no?authuser=0",
+			"hitbox2": "https://lh3.googleusercontent.com/pw/AM-JKLVkGgpFYd3nVvLZBweEA96oRTn62_sbhSOU0QGyancpkQQ7wT8x84dJsVvWuSPUlBb7e1m-s1B2aodwAz81W_vmCFUzOdMaZFrPUW60M-poB2lapFpS45ytfsXmLsy-OMGSI6giQazR7rx0Te8i42i3=w1044-h618-no?authuser=0",
+			"source": "From: mclnarf",
+			"source2": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["apex jho"]
+		},
+		"apex dia": {
+			"embed": "Apex Diablos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLW39Wml7oRGhFvj1lsoMaUvIGhoq7yc2D9PkadAPubSCuIvbdCiunG_wOn3hwNMkZkw8nRcj3dTdWZJAKMe_30pwNGeLaSK3VMznHeE0ltg5nHP3heIs2mWWQARFnNnvRXiLen7IjyEjsg8VPbP3sdz=w1085-h842-no?authuser=0",
+			"hitbox2": "https://lh3.googleusercontent.com/pw/AM-JKLVtEET7DCQsSjRolCSLthyPjOREZLhRvAbHLGgAWYHHEeHZ0CFwFm9Z5YAXvZYFiI6HZ3tY-kgJTPEiFTfAQmVSxVumEYqo2vmkyzgUEgsx9GVPjSc7s8bp2MoBHijmwnoXm2TQsOe1l5KeSH5U1cip=w1046-h510-no?authuser=0",
+			"source": "From: mclnarf",
+			"source2": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["apex blos"]
+		},
+		"apex gra": {
+			"embed": "Apex Gravios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVFXTC0RsFKzLEXPsclbrJNnZnRJJSGHkGa0rDo8OmrokdNIHEHeLVu9sM_lS886QZv9wj6uyS1BdcoUwXiNSjxDLhxkjyy5RAMsjKAtPKXl4-FVoT9tzHqOpNWHcVWgdd6yVFH6tbtwbSSj4HAVPeV=w1085-h842-no?authuser=0",
+			"hitbox2": "https://lh3.googleusercontent.com/pw/AM-JKLVD6HRjhKWwTF6rR_CO68Wucu1C0bqh16OeGcGFW3bQET_8gL2TRrw0L5r9vWnfn49Km25XKWEKCIyYtTEvfurXa4Qp-E-AoqaMMrQQ4AKz3ZkLMWgmo4E394zHD3Cd-jpwav5hn-kws1BkA2_ekqEk=w1046-h591-no?authuser=0",
+			"source": "From: mclnarf",
+			"source2": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"apex raj": {
+			"embed": "Apex Rajang MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV--xbC6UioUwlB7Eswclzjx4mocgXTkqBgsx0NGzxG_VFMXxj3kuPq9hJwPrjKDGgqSvZGFfVJOYpwWzTiq91sNt4AQS3mI-93NgI5nt-_7piDr2dZR0rceos2ZEGbc_A5oswJZgvwcnUmT_pR1-fB=w1086-h791-no?authuser=0",
+			"hitbox2": "https://lh3.googleusercontent.com/pw/AM-JKLWIiG8xkIWVL-5G2eT8CFz4FjqQteiPqdWcrrFq4g8B_r4v7llGAo-baMUtGhj4Jg-JK6WYnH0GPYcshLUvJkDUF3PdRjZzAXLeeYTSZstx9sElhjovmVievn8wF_eVK7r1x3Ch-nY6hyGuWRMLUvSr=w1104-h513-no?authuser=0",
+			"source": "From: mclnarf",
+			"source2": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["apex jang"]
+		},
+		"apex ser": {
+			"embed": "Apex Seregios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWLhOrQP-9ZphsXP_u04mbl5xZYzE-1omvaQHvfmeEF9LywRDh839G017747nQ1L_rfKlUnmOZxxFUyN-gJGoFl9gbipGiOgwA7Jamjc8Fpzq-aRNIRIJSYPs3vNG-3Hou51MMYlxzurWxn2VeDbmsN=w1075-h842-no?authuser=0",
+			"hitbox2": "https://lh3.googleusercontent.com/pw/AM-JKLUHFbcPpiPhTFnOIQF0H3NEqoxeEa5s4mnFl3PXRf_krw0BpcxBbg1L59XVQ3ksoauOFe3JQ_KFSZ7cMJiS2J9TyHVyiGy1dA9s6xL-84AUjIS45L8cayOp2a_dzEmpNGe9pizZLzVsFyuIpd0ftrdn=w1047-h541-no?authuser=0",
+			"source": "From: mclnarf",
+			"source2": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["apex steve"]
+		},
+		"apex tid": {
+			"embed": "Apex Tidal Najarala MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUISigz99AzEC7K2CzNx6zHWA6rErfzFjpWSyjAAuoPWch_89yyl36zIE27r_G9Hr53lKl9jbZLOOQUsj--CCGdvQeqOjj-kaHxfse_9tyBxvuUZxi9ITCE8UOZipv75qWykAA_i4KTihHPmBwGu59e=w1126-h842-no?authuser=0",
+			"hitbox2": "https://lh3.googleusercontent.com/pw/AM-JKLWvzeQyyN9Afd_VilLhRefXVcSHK_thkQXT5mVjOrS3h9BjtbsX4FjGAyzp2Yzx5Mz9ndKHl8jP68R1KpAEOqQZtOE7uUwt9-K8tTs-qGnUG4xyNqGfnebH1QqOPznObM-ETPpdiMEcsLhyzDBDlg4N=w1043-h563-no?authuser=0",
+			"source": "From: mclnarf",
+			"source2": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["apex naj"]
+		},
+		"apex tig": {
+			"embed": "Apex Tigrex MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUrKJqHbgDRj7TN3rAWftG_Rcwo8yNSKi27k_69h8mQNMBHDfpeb1Cz-GNOax09nIYhhKmBSGG9_u-ayW1IO4BPwUDGDurMm8dQGYIyzekGea5tJMVi_mUO1D18lIli-5j6C_QGx8VlUImPkwjKqn9S=w1113-h767-no?authuser=0",
+			"hitbox2": "https://lh3.googleusercontent.com/pw/AM-JKLUENWQ_YsPASx2u0rriU10wBKCZyAAALtljMfJMrxk5zh78AVDEXWH2zra-WV503-QxAWIYKlKhfI00D8UDcKzDtBoBWxnlInBMe7xG39rB_UNPXLPTbSLplh1w0Yzak8BqE-J047tXBV8cSQu9HDvP=w1045-h620-no?authuser=0",
+			"source": "From: mclnarf",
+			"source2": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["apex rex"]
+		},
+		"apex zin": {
+			"embed": "Apex Zinogre MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU6EjMp-w6-RD4ZIcEPV7EREw1yjLwu-mEIikcsDv58PyJnfbaySnZBU1CmxKrne7B2DX-D-lQX-TaS3etwA97NuaJ363MhgOSAAb9rE-JmMmb4cgMwXPX5gSIx5FMnO_TxPeSS_3z2-6yvowBiB0hD=w1107-h842-no?authuser=0",
+			"hitbox2": "https://lh3.googleusercontent.com/pw/AM-JKLWWp2XZqw5Jxl3Yqiv3fCj4vFa2f4oFaRlMqPIruQuJZ5EYsAg6uNVt780CqT-3ANfGvS6RN5YjEs0vt-pcztYGkBMoM-pxxvpvYRcsjjgoaYFT8o7Q1zMLdY2VenmnjlatvUisxl4Gh6a5VP3zmD5j=w1044-h702-no?authuser=0",
+			"source": "From: mclnarf",
+			"source2": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["apex puppy"]
+		},
+		"ash": {
+			"embed": "Ash Kecha Wacha MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWGoPIefW5fV7gVVlj4l1qVRHqsRlHRJ7jy3wTJPn_J-cvo_J3AqAA9jND7WpAY5XiEWl2aynF8jKNlF2PHsb0x6ObT8vB99B-AcsuM8h83jykLIPz1udGFs782XBLRpJ2fTi_gvV5U0z3tOrgeUWEL=w1047-h537-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["akec", "awac"]
+		},
+		"azu": {
+			"embed": "Azure Rathalos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXXPxxsPWl_ed7P35Bxc0w_mPzay-Z5Fuch7Lwjz94Xx3BWjF3yovEb-gyZQThPG1HIyEf9mTYqszoJeOd43xHGKH_f0e0Jx43MNKKj7AGF5jAqLdfmrhUKWzS33BxT_AyvEwXq8LFx6NEE1yt8UQSP=w1044-h511-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"bas": {
+			"embed": "Basarios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVBLU2HIrUuf6_IFxhnuarIq0273DIgK4lIaJlu2vwAoV3SZlLCZU8dcDPVG24yf1dzDtE1DRQ66b_iZ4ILVd8odz0sdeWmMOsBy-YhcBSxfF6kfmEl93TNVejUr1nlEgywXfS4YDsl50Tn9PvF4Xfz=w1045-h537-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"ber": {
+			"embed": "Berserk Tetsucabra MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWRAvztuWkkiaRuaU1HYQT3xLePnuQNT9vDO-yJrLGBYgguOifNcuTwxY056HZi7QkBKyZYbSRA1-8w7Q-XtyneaA_9vMkvKEETipE8LQJKsMkNGNUxV5RtEJaYSdlvDd2sjrdSUQdOg7sx2ZC4z5Df=w1044-h480-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["btet"]
+		},
+		"black d": {
+			"embed": "Black Diablos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU4zceHH3g0plNkfdqlxjs3Lxt9mqJfrUINC_gCvXGj0kmApfYd4tsK5B56VmZCyxICjQP8QgSLG1MbKi72Yf2rUjAqjP1rbFx9MiWG1rLY6e66QHQZiGR1R9HKHyh1YynOQ7UpdAX3VRhDQjffpEvs=w1046-h510-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["bblos"]
+		},
+		"black g": {
+			"embed": "Black Gravios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVJkSaNC-SM6dwPAtQtF-urSqfR_-4DmZkNQ52XfJHrgnZa7beAhfPEb9IiydRxrDR3cBA-PLiD-plP6pHjS139bgEFIG0mRzEs-OkzBO4Crz7pM89Y17KksACoba31HePNYI5fS6GkbtWfgD2ySxaU=w1044-h592-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["bgrav"]
+		},
+		"blu": {
+			"embed": "Blue Yian Kut-Ku MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLW5v6OlA_vm0fD0_l7gMQQ4bRjfpnuY8Hr0wVZ5d08akMNS-9iMkpzAZVCrxKdhyjh3VmduVKN6DW3OpFpSVAiXFKK-pLQirFEq41m-eeBjfC5cwuh3QkGiAXur9fQWpiE6pvXbFiNw3PooN6kxzGez=w1047-h483-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["bkut", "byian"]
+		},
+		"bra": {
+			"embed": "Brachydios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUCW05Z-26UPgpJjP0azVpZRQenmeeA4R58UD1bLfMDmVmrG71dTy-tdz3buJx-90TbFLlMiv1deSVuFz_sgf4L5NkmaNgGXZnr2oQQgHeYpIG1LXw1DRyeivmC1Fht0O1IbDUY-6qMTbEVgfqbxcy1=w1043-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["dio"]
+		},
+		"bru": {
+			"embed": "Brute Tigrex MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWUHbxDRGAXhyD24-1HyZTozXEiqKZdATGyH52FmY4Hsaz7Bo9Jki6gR5AITXVsvRxZgWYmRAmRfYe5tDTAgosZhc5hx94CrbWfKzo9T1FnzJJtcuMIkTTHPo4S3HCE9jDyFOvGKZVGWjgcSZS3Q9g9=w1043-h621-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["black ti", "btig"]
+		},
+		"cep": {
+			"embed": "Cephadrome MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUPvFV_EnEfCEqPUdC39mSpDLlsFgkrrxaCAQXetl7yKDqP8UNEp1SW0j_P_5GLyj7sEG2tQYjcLMiHKItXXV47kiZ4URMohkFUBt5kVzWW-ODaT9Pn75QKN3B-X06LL8wvuVnk8YoYWn-TFKflDFpE=w1047-h486-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"cham": {
+			"embed": "Chameleos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXUZeLXLaCso734I3dsItq88ljw2K6NVgBZK4Bps3mVkkpcA8EsuYsB2bxrtHtH2jeGZ_DHM5sJCeyuNEFxBkOJVT-tRwX6m8hI34RTZM200CM5XXirWIugvz7bPMWwXOIiZbKALQdM8W7k5AfaFEPh=w1045-h677-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"chao": {
+			"embed": "Chaotic Gore Magala MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV229ajpuKYzk-gaO88bOzhdvj9MZjWu2MnPgfMe777beWY8SL8XGJWK7tBvMNKFvRKRwqMPZ55Ymvdrm_3t613319x5o7Tn7P0LfUddOjFjXQrsG50MlGdZwX3OV36kE8pUSrgIz_GIGx2_eVOShri=w1043-h567-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["cgor", "cmag"]
+		},
+		"cong": {
+			"embed": "Congalala MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVNpiGKsH0MqwSFKA45PcxZZozEVJuNCYK0JKOkPi7ZvmwGut7uG7K5yqd_6-_70Y_HRqISQlZdPCDIXzFk8hBnFPLSDHcNeejMQ2Un2gE7Tc2dGLUbMMEsvcR9bHo1IVIFDcX_osd6sMRe6opsdYvG=w1048-h562-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"cri": {
+			"embed": "Crimson Fatalis MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXaahQ3ALT1B7ajR580uqUpFl4tUhAUNa1dQCEz1aopgBzMkeSfp7PKCHlBNJne8ypEBxdZxS42IfjOtGsJKzsY4nEEeBlac2Iz2pY417TOo9iYVfNhZyi-7GzvXwe1x5vDZzOfqTYfaSqobHY7mq7U=w1042-h732-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["cfat"]
+		},
+		"white f": {
+			"embed": "White Fatalis MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX9d8h_su3m1jGAzCvQ3q7cNABsrXQ6mvqcP_KcXenhY3UdAuH9SfgxR99bIW7M5Pi_wfc2J4BugZ-aPCBJyC9cM84rUWuOLetLJdOinVRsHzpHPKCoIDGNuxR09D-sr5eXgJ_-ZOzY9a4eOipfcXIN=w1043-h728-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["wfat"]
+		},
+		"dah": {
+			"embed": "Dah'ren Mohran MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVEHoIJ-tj5idz5HepeSLMl2yXXqOuBDUJne3_za1ehJFUAQkvb-pZBm3U44VsXsrQeNAWB_iHHlmIaO8aq7Vpu4StA-MQDGpcptVaHDQ_jpeq1snEfC4Shx02gBZUjwyfqIsj_YxCWupiD3xp722lE=w1041-h510-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["whale"]
+		},
+		"dai": {
+			"embed": "Daimyo Hermitaur MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUtvAuhlEFoUYy9Krn5ltxNyAq_kNddh6PrRODf9glCMC9rxnb10hENUz2MV6YIRUYrIatz0WBO2VzCNJkVahnQ3PYMskv8BxZNR22jIpfcZwZ5Avnhft2F04C9yyAfA3_4qXSbR5GVfQ7_eiWDtXeh=w1047-h676-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["hermi", "crab"]
+		},
+		"dal": {
+			"embed": "Dalamadur MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWaaW-JkN-zghyMcGO-6MKjzZpTOZg8PMezbSJXSTobylsjFpUAbtcMj0Yw8dYSSC7abDlzb8_Im6Axx5Iebz1PTjN-kqJ-NsNFW1lVByCcFT4bWkHqpOcKvaWbiqssZOWyh5KeL3M8RBD5j-56asbg=w921-h842-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"desert seltas q": {
+			"embed": "Desert Seltas Queen MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUaa1R3Y5r6ydGpDzZI1iECRcYTVaIKrfbbTSmqoKNZy44vuNrtelBHkbxh69U1dfwdFNT7ZZ3UaKhCZSqZ8pkOe_tGFjPDaS7XIyPoGPZEFq_hNQ9y_gTkMvkvzCX-VwouMOzG54OExfVZDmzGUJ-n=w1047-h458-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["dsq"]
+		},
+		"desert s": {
+			"embed": "Desert Seltas MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVGKPrSbSkTq4w-zJk40r8NN055IGtmHC7TRTnuO4HElOPnrn4V6NF6j3GYK-YnoBBZbQEkw_POhpaK9KQ8CH8SdO83eN8n8qtj8G6g1SOePVuZGt_Odng-WNxnv7cIfzc8OeMb5egwqTe7wPk9blhk=w1050-h433-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["dsel"]
+		},
+		"dev": {
+			"embed": "Deviljho MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXdrORCOGT3SDctjkX9fTeqxFqTeq19yKwK2_7Jmft13QbTTmfRjgE3GNYg_MqcUPQcDUoz3a8KkSIM7Fx3eTnU_5yD-N3cRENmiFrQizglHlLFVuCCd-oopa7jhM0S8PIT4PiIWWdEPIEPn53TUXJf=w1045-h621-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["jho"]
+		},
+		"dia": {
+			"embed": "Diablos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWtWArD5dXfIWhHgvZhpkXS7txihCABnZNdIYrjp0BH7eTodDtqTMEZ59SBXpufsFt0uM5UR0luFOr7rVj_9CgEpSaPTulG58x9NMiAOfbnV6vwRAmVt_kEJ3nI0Zr__oz_kTgaSPOehKpmS27MGnLu=w1046-h508-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["blos"]
+		},
+		"eme": {
+			"embed": "Emerald Congalala MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVP55R3trYzZVUzO12y25CZcf57wIMY6mczuWITN9OU9BUALB73VyD2NqvCc1vi20NPRN6BhXuXS6e5-aHClnZTO5eQ6qD4chKWUWzl5XCWk5d6pIjMOQc3nqRZtx9Mfoz0NpFJgqAVubsLkKQEEniR=w1044-h565-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["econg"]
+		},
+		"fata": {
+			"embed": "Fatalis MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWFpF3jwU4jv7Q_ZIqwelxu_67btiWtV-jlwhxR7L9bEwn0XNjnb02a8RAIpcPYILwSZ2OX9lUq5tA5cby1Wx_9KxITq2YZ2-qDadtDNico5iv105qzqxUNhJfsqYYACqz5xZoeCGB5IryUk3num8Tt=w1042-h508-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["fat"]
+		},
+		"fur": {
+			"embed": "Furious Rajang MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX4X9-dUdNdx0-zzOHbr78u71FPRcWiQsf5-73T1mKC3vRDH-mj1XEM4kDxE-XxerChojzz3ZD8KVhU4adhDD1_hk30-IyKsaooxGAND9MUE6KHn8qet6mCHHGOAQqsV0Xxzsmo9fHzv7dMuVhova3F=w1045-h511-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["fjang"]
+		},
+		"gend": {
+			"embed": "Gendrome MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVTjJ36xV_mxjiSg0tEG11In5JagE2CAJbPSbfX05pkGWXRK5HLxr9JRAk8OErbLIe0OuirZeXuslcWahrDnXW7rRl3ErZsCzDnxnuN2NlXX7mwMolbrk6_-PZEjG3Ri1R-Q3fx1R45G9HNRoMKZXt-=w1047-h400-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["gdrom"]
+		},
+		"gog": {
+			"embed": "Gogmazios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXRlSKAwYKiunhGMdRctaojRK2HsRhiRCxztEIaDQ06NxY4m4FK9Z2agtoEEODkCE08hs2Z2TuPGcyGJky3sic6e-K_hFIFBPJfyrkbcLkUD2Znma5yrKwIef0etUv8zkQXREPf2b7cHSJVBhPJF2EV=w1045-h562-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"gol": {
+			"embed": "Gold Rathian MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLW3ww8e8JjeA_tPdu_GWaQUiY5yXd_quK1VbYmw51-Ljh9Zw3DVm_cJWzPdY_pVTcTAhvlJZF6TBxYTVosaZXxPT20syldxrFK7KhGfoCcWMAx30YtTmfAUys-kcNMDsK_gA_Q5AiXoe5IvzYtqKjnZ=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["gian"]
+		},
+		"gor": {
+			"embed": "Gore Magala MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUDpKY9llYiwxI6qyjiiSZXThxl9XcWwcIDuOtmX8fdCGMKbvLXyIOiGYkee6s8k0SiighRnvSpGyYuc2hU6YRtkYCySzfAxRrysVRWq4cKExWbGNcKR0uL8H4jWQmZGXLt0gbCV8FccuZXqZDpEhM9=w1044-h566-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["maga"]
+		},
+		"gra": {
+			"embed": "Gravios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXvBxfqj07mqMLMnmYilhWkrxjRCJsJVmI8pWxR3qKseuLofdenrjs9bba6v3PM_1F49_U4FX7snQPl1CNL4dJbzkr9vy7tg1clBygDFpINaiX13OxV-vf3eKt1q4Hwz9aDJoqOfb7k3RAnmSkqaAMr=w1045-h592-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"great j": {
+			"embed": "Great Jaggi MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVPqYJAav_vc3u2avHWBr-oVAQh-B0-JO6IXyPU0xAxfy2u8qBgQtQGl2zMW0dgdJYQVa1zh8fSSq90OibwK7xChzK9uQEO3fdhvwO-_DEbnr1xz0DyaMeAuIvpOI36VEBhR7Q64N6g7LaPo6V0B6ne=w1048-h402-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["gjag", "jag"]
+		},
+		"gyp": {
+			"embed": "Gypceros MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVkvdruVLbFjesosFKiKweItmjApLrjGXv0qQ7CWhmXhQYK4_YnTdN2HfsBOgria-Bo7DTfegABzFAxp4cwdh70wXi7D6FvctW39P_zJetntQz6vciSGchi_UWQj32Qix8koUnsPCkvZxZV6KJQOjqp=w1047-h537-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"iod": {
+			"embed": "Iodrome MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXdOBDST6MYroQFCkqGeiQBxMlccNq8w28m4UaRkSC4y8r5VfXYNLcrD6kgUc8g3UZDBvK5lCEMMLQsNYn0GNmWnSG9XkzYTUIMpDQ-FHb9z6zAvD-zhLKKYw1P-X2yEH783E6sH1q5zUrjv1pPVYba=w1045-h401-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["idrom"]
+		},
+		"kec": {
+			"embed": "Kecha Wacha MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVbC1KXMBRN2sgQETsPOjAOK_O3Zdeb7c1Z0MMskMUp2bRkSdX3CiU483Og9Jlufns-9qsOYNIHFA0SpjxFL3BxAfy6giEYB9AADBb6EI9H26cDlaid15u_TFuE24kTpcX_Kt0jxH3Lbev1gR8ddfrO=w1047-h485-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["wac"]
+		},
+		"khe": {
+			"embed": "Khezu MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXK3tR-AYIR099wlbgrhXQGqjTgZBJVh44M4YbNJeMJxfsnyqq6yo11smEDy7xcaPr6ZWHc_fECusaXS1TqxoRsgdnbSyLgKD66OTmjvrvnOOJCzYOurMyzEDcywlMmI1UeCNIDLn-iN0CXcLUWVwLY=w1043-h456-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["kez"]
+		},
+		"kir": {
+			"embed": "Kirin MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU0XF7nYFG-P8zfqAa29d4OFRF3DDnMlxTcDHI33rNii5THJ3rosI4SuGrHeJu-TMMkZKPGrqomfEi1AGbPBUabQJeJMz6tZYqsJ7Q3W5y23Y8LA_RqrquBbv4KFhQ4EYcj1RnUU87AdLY9boBLiFKy=w1044-h510-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["pony"]
+		},
+		"kus": {
+			"embed": "Kushala Daora MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWX_dQ3F5adqocjHQtRFZ005Lx6eQ8OaQTCxhU1MCUMHhIhQkDxOejSM9qDGiKIc0dfc1a5cugZ8skQX3HmKe6JegTXSIMbwus-GG18FYnQys6Bi__bVm6Uu6qUUBWyWPZPEArQpeAN47hgcWShriw-=w1046-h727-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["dao"]
+		},
+		"lago": {
+			"embed": "Lagombi MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVIodCq1j8T_WKYBmF1kASBXjMr_VGwJ7mV1mPOJrxewybkQ3gjSknp5ButNFwQxGIBDFVKvorPBuLM-gLwwzfTT8Ohm77tTyMnOHbiJhQXKY5MA-zHesVvVR9JYzUTnocEv2w1cY1i5P6X3BoPcQ08=w1044-h428-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["bunny"]
+		},
+		"mol": {
+			"embed": "Molten Tigrex MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXdccBTCKWNgaGdW9FNp-xIaoUQdqnlOZhfIahjTkPTBWwGR6LBBCWZp-lK9DFaRv1JEx_z6u1rL9Gz_FqyINM5-LBeBBpZOwP4F87dd-apiIc8C8aQrcWVvB1rnQZ7_K6xmNRi8pyyhJ89MknJNOhw=w1046-h731-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["mtig"]
+		},
+		"mono": {
+			"embed": "Monoblos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXsSMoV5WGmrgEMdp75UmXT4FEodFh0HyMLSrsCmQQYPcWO4cYaTDbqelNpT0zi85jv6tN10D9diH_0BlzTR-f0nrXvM2xijpuZZAMig85AWUtlkoUj2u32wQjS3FeDeb8ktGwW3f7SB7S_2dhJnTWG=w1047-h508-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"naj": {
+			"embed": "Najarala MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWrooKIsLmVsDL6FW0Ou-WdAoR-gA4MdkocetJ8ejSjKyH1e08yPXhXNTDHHaDpvQ6SC7UZOcDTerX_LeLMsYLBRU_2YwkO99ReZYMSHb-VNs7-I35TFXJ0doqZG2zGPzOI1YRyxjI67knCSwz5wb8c=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"ner": {
+			"embed": "Nerscylla MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVAKoJ1y2n82Tt2WjExmxhdXjG3gIhZwQQNfawZd0gfSLfGoaV1gZioPl-Piz3SjKpaqO5sorfMTOE_5ElY5zFAokTlGgcNT0qLS0oBxYCP6AK2aYtJiz9cwvIj2mylIiMKe8MrD4tEDwyS2_r7wzxp=w1047-h650-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"oro": {
+			"embed": "Oroshi Kirin MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU1UwUU-H0UDMURrA5aTHIFPpGz5ocWfDKo7aF7J4EGpXTTvt93QEKyXjzC2sobw5KZGtKuhGt8OQScKqAHqEz5G7tM-B1HcIOgN8nXSSIejsmEpg9g-w7Y_GMuOGDvY1sL6sSwQpDbDbfPIy89GrXJ=w1047-h512-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["oki", "oroshi pony"]
+		},
+		"pin": {
+			"embed": "Pink Rathian MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVCV5dEGaUSwYWIWlTiwQXo5zZhPuZxKWN238GmzAhcqWlY8zBz_4h9wjOo3KQrjzLgXaARc3wNTidb9Jpqj60gj3Mlu40U-oN9JyzIoeIip_OVzguR9uvY7FdtceRzXmmgWLFLvmzPkfCK8lK0z6DW=w1043-h508-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["pian"]
+		},
+		"plu": {
+			"embed": "Plum Daimyo Hermitaur MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVhrBBjox8XbhSOJpgDtld7_p-JJbkaAz5A172-VzxcYK6f-LRgd5OdX3bqZ11BlJcJ3WmmayJD0YG7IuvAqpthYdMf1UfUYhIypyhIK46YJhkkc_2ZtF0AUOMXAp71rbqGYL0v2lIamGBcx-OQmk-6=w1047-h676-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["pherm"]
+		},
+		"pur": {
+			"embed": "Purple Gypceros MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXNi74xyQbz2UBoqH5YL92F919gfc72UDz4n1Gnohsbji1Rox4EGYZ9yHRpAzaRJ9WeuJ9-FdY6lyX8JL8cItsvRB8WDCpyyOqUXPRRG1UPZ8tTnrmFoppGKWQFWfDJytUt1_-IPV-dxpQDtMUEc20W=w1047-h483-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["pgyp"]
+		},
+		"rag": {
+			"embed": "Raging Brachydios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWet5qo7uelTuvivTX8HN0p2dzo-9fThkCacvMTiwvvgGCiJYXMxRNNTbHYP3bJw2KnlZHm8IKu9Zy51eytjQzYn_PDJGIWlr69rtulaGNaka-pb7J7Q_GaNsRZPysiGxOMsXcJe-LYnlS40wEPbkdR=w1042-h618-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["rbra"]
+		},
+		"raj": {
+			"embed": "Rajang MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVi9_zCseCsX2kTl-Y_UZxOjyPYp_Ex6RLcqpeWJ9IDF4At-2MUBErPINfAuKUwD-mYXbqglXeWVOshNbE28ebSBiu7egzKDelVn83PiDmekTIHxjB4UXKBkP4J19g_1t_fPCkcYIj-XIJ6h03lRZ_D=w1047-h511-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["jang"]
+		},
+		"ratha": {
+			"embed": "Rathalos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXsH7mR_OuugM6meRAaUbmhxJJOzwaGFBq73z5RRu-GocWu9BdJwvunxJP9reXmYXh1waDWcaibjY1PR8ZPEwljlBryqQsEwcIBQI3Fq-qySWPl0dl1vSOvOPs79mpZ3eqMSYaTGg-C0yewlHVieEgp=w1045-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["los"]
+		},
+		"gar": {
+			"embed": "Yian Garuga MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV-UMIyPhCj3v9o9cjSnya5cRz_Hr738VNN_Ttncis3jpqEHGNvCot11yqk0paK0UrPbLhVo_DezBRpdrZy40Yv_Q8Ji61YOofZBYvxSUvADLE4ckxWOLM47DFEXo4IaQNjJKIFwvEVNJAAuRzjjKw6=w1047-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["yian g"]
+		},
+		"kut": {
+			"embed": "Yian Kut-Ku MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXuK9d_M_lPCtApgI1E6h7u62COX9yMXDTuwf_w_nsGnKUqa94vUSLRJqBGdZN2AUz1XigOat3DBz7KwoxrORo09f0mZ32WbdTXuckTNpP3gA56aNS5rmX_DnlAUR4rxJaG5zoszLGd_bQfd7_AcQmI=w1047-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["yian k"]
+		},
+		"rathi": {
+			"embed": "Rathian MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUWwf0RJg3gYqvQErQWoo6xFWkm1BSd1ZZYNHvZfvxew65-gtTbpwzwrA2d4nRaeHr1KPrkuud8Q0F21YtIELVKsoySkt54aWIdE21QS_ccOV6Tm7esOuaX3Bq36WkMLu27NTkLlJrvzeEumafYiFGF=w1044-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["ian"]
+		},
+		"red": {
+			"embed": "Red Khezu MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXrt3n9XV7BJ41SN2KfRk9iETQngqKAliXltvkPXEV7ucinlDy5yZ_XtbDpMwqDfGMNGUKc7zyc26OQlv5nwDFIpwfemnqUkIMuADeZMzaZuLRKzNVUaGUgAFfnbEgcOu3LdDJkFXqDNHUA2b3efBA-=w1043-h453-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["rkhe"]
+		},
+		"rub": {
+			"embed": "Ruby Basarios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXg5rRIst4eDaSNBxoWAXc5uWmnEL6xw1JMpWpjCztoLL_VWRCKavsQp241A_BjQDbsi5jdwnjPd_slm6TIOISPJCZEmPrD-h1JxBGzl8006FsLnwuqV7JewXzVszvSQRqtCOZdEE7bjNnrYu-PpWmu=w1041-h537-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["rbas"]
+		},
+		"rus": {
+			"embed": "Rusted Kushala Daora MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVEa9VVjPR8arN_ot1qbQ8jQ_DIgdNh6-n6pCi8A558-mgef6_VtRJ9Dvx7GEkNHdZdP1PqGvVEMovgy3Gsw7h_zU3Uo2p2ivXc1QJcDBwx6roCxmpH1np-bgNfgpZqAzrNYk18G_5BTCZsCLWij2Uc=w1046-h731-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["rkush"]
+		},
+		"sav": {
+			"embed": "Savage Deviljho MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWnESPSTY7JrlLBgv0zuxS0u46Bf-matcaOjP_ojuuE8ozkGMGigbHe0ZYxt24Z6xlbeBlIeRdM-xReyfrhR_oBgBDqkPHr2CyXauzykoHcVgkRD0slmEX4JmMY1r_HHezzmt0k_qYASML3zQerK5pn=w1045-h592-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["sjho", "sdev"]
+		},
+		"seltas q": {
+			"embed": "Seltas Queen MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXcx2dP4pvwPSLVYVbY7GeMOCPBl9zgOR1kN1HxkD9SeR_cWWrR9vaVqjJFnAG3wZN5005l-z1-jj8t6sk6BqvtptelnvoAYk455OWZz3cokYlXLiGeVDIEnSlTiLei-Y_M7vzCykhBPWBSFWbt_hOj=w1047-h458-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["sq"]
+		},
+		"sel": {
+			"embed": "Seltas MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVbeSz9fH0JsX5LjEEPeqpAkfyukR-pjrdc2PolAKzBNg6aNZXCiy2WTmpJmhw-m7GC2PBJxrKbFuVajmD3pDY5lyS05ZeZKxezEoBpDwedcr5c0FAaCp8648yg8s8yO8rMrUvJDvSb7U6UBT6rxMxk=w1050-h433-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"ser": {
+			"embed": "Seregios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUoQLvWTAGEw3rUWhTlj5HCUSRXRasro9YsvHmA8OlzoMQaLeGKWF0zWeHzVjsgTplECc-nFee7wB1tCnIH2SmUNDrGtYeldyX_pdoVNbMs5wl8RlQn0Hh5DiELYEJMk1jAvdCg9iqVgj-vYAP4IDYb=w1046-h538-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["steve"]
+		},
+		"shag": {
+			"embed": "Shagaru Magala MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU6hTZVPD2fG6ptv2dm-F14LIUgqU2H5RfoLVJUSR-1RRg2Wm-6wBeNBeOb_oQOz7wCcKFAzatrvSi18-nYRNaXj1sF_GXJ1XdBGqqbKLPDr9PCI4PF-lCvrSDOOIKSCvzlDkndWXcCcMBvuxyjd9bc=w1045-h538-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"shah": {
+			"embed": "Shah Dalamadur MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUzVdGGQC9IvgigBc7iEWDghe5r_bIVRctuS6mrSxiyf5gAq498Ulc1Nc8uHNjh9O6F0iw7jYk23TpWNeQdiuN1iZ-QCb4wKEtjGQ5iMUwRbSs0BbDdqprjYmKA51OYpwOTDMVl2Saki-XpfGaNl4Lb=w985-h842-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["sdal"]
+		},
+		"shr": {
+			"embed": "Shrouded Nerscylla MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLW56rewRpd21W98NPNYV3O8pVNBKhayli11bUq93NUmfJo3xbXTLkgHV7s1Oc5ySWBgRKAHvYa6o5HTe0Hz6hqVv4QNB6rOaj_TY0TnhYj4iWhaLEr8hWOB65eFzBoDJqx4DTkRJRHXlM_QeJ6mpOgT=w1047-h648-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["sner"]
+		},
+		"sil": {
+			"embed": "Silver Rathalos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVmKRj9R2wKH6i7HIw0r-FMB2dH736e7H0TWyKiqknZo4V2UP4MbcV5JK5UpS5bnrgID2o5Us2iZDoGFyFM03n2iHRAQDcNviiVCmegRXIxJBMFLL_DFhiNgctmThAFenRoAg3EAG_QxgeZv-mFZW9-=w1042-h536-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"sty": {
+			"embed": "Stygian Zinogre MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWoYZSygy5BMMD2rvNMJ3v1VDFI-t-jiOGR7H9HhTk0ABwoMhCBwva_xdMpsMoh9xNvbikdRLizFuWvSr5wQPoCtmR6P-Te7xD3GlDHw1wKYJs_4E5kVwC6DMacXUKxyKRZ2QuevhqjTpzCkmYGUDbj=w1044-h677-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["szin"]
+		},
+		"teo": {
+			"embed": "Teostra MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVgtq_MFcvlAgeb6s2v1wLXT3uqZIbXZXLr9ST5w8adea6giiw9Gq9SrJqS2e2pVLJqSMVYQB-e6Si9MHJf8guErQshZK3qcWKDxwOHb4QAXnJ2hhw-PT24XvvCDxYJIwj2Mw93SbZxvc8Y2znzTuRx=w1043-h676-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"tet": {
+			"embed": "Tetsucabra MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWrhqYjLGKxZ5JynbgpU9IUmUi9mfGdD-ZyGwWSaeIBC4AlFkZDczckntrxHSgwMJMG3Yr4nFzh5tA8S2oGSs-EokpCh3oqxJSSBoW90z4Iunwmsr82H8RZupflPsz0OKRiusqiTyA25-ERbcCcNJMC=w1044-h482-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["frog"]
+		},
+		"tid": {
+			"embed": "Tidal Najarala MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV9iPGrq9-NhWO16sLWbOprLfKQWH7WQyjn6im4y4TqiZjgDW8-hv2u_zbEAzPkXowd93lZzqG6DavUpIv6aRHPOv1TmLvRFgps2JnBZr_S8T6KvaCXRWxwG-4qXIlgZJsmCaMCdVKzi9d8FrSW_JM0=w1044-h565-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["tnaj"]
+		},
+		"tige": {
+			"embed": "Tigerstripe Zamtrios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV9wUUjAOVF3PpP1f0-V0UItYCu3hS3-hrdYo4bo4SMLw-qrONokfgUn5Ww2DkP-KMbGukFQRQ9EKmF9xQFAF6Pa2Jjdnbzh85_buyxWyE0HKc6d3QTwMUcFEWC3RthWA6WPiWLrKgWqhgf0Ql4pnfg=w1043-h483-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["tzam"]
+		},
+		"tig": {
+			"embed": "Tigrex MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLW45CWD3tBPxD3ZdZzzkYPzsHMNdR-Go0OF5uxbqwCk2MAblRxaRj8RKXjex8zBvFaWY9IuecCDKyBZoRK8K-FGAid63VuzwWDNiHNNvJU2NZ2ELb4b6mGeBmFfWEt3oITW9xQC1wOC6miRcKRyQqeZ=w1044-h617-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["rex"]
+		},
+		"uka": {
+			"embed": "Ukanlos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVY9Xx58FyXJL-LPNnjUeDYT1fB9BerNeOrOzvNlTJT2ZdGEVUZxr1yJroKpHFOX2RGXHzMgHk0rtTVktKntwbeoIk1QFY0FjuA6tngFmseDgiEFTXn2-ABFQRXAPTOY82SJvKpjfVDQZfiKxVYx6_2=w1047-h677-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex"
+		},
+		"vel": {
+			"embed": "Velocidrome MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUM7uniD-7E2O8nniHoEVDEKeZ6MJwbq5z4NyliiU2nNQ7eet22VBJGkjpQljPEF7FpJnSl_Ptkp1JrtKvqvOCiSaURj6tk5VhRanKwIu8kkEHcvmBZh87FOeD0UDhPVY0Ny9wyzUdM1lKXz0VnkKk-=w1046-h404-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["vdrom"]
+		},
+		"white m": {
+			"embed": "White Monoblos MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWVIpV4CqLOtK_0CmXmw7dhpAly5N3DCMpqpjb7OVu6t2i6fMe7FHZO0WT3W8OsNhwwoBhhlmcBPU0KKNnm-TE6_7eOYji0bDj-5KrN2ATcg5IpFEpE1l76SEBffgJU-lPmGwCVLrGCSgyEhjWHCo7E=w1046-h511-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["wmon"]
+		},
+		"zam": {
+			"embed": "Zamtrios MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXo_q7YksFF0bBZPjnWoFU1z6u8bL7i1_XqgTPuOB6iOyiY7jqsw387-4WunYp7JgJqMAve865vkoEAQrZxf-TNx4E3jg58koDRcs3c_fsXCiaUhP6SnlMdtOaHmiFTUX-aOpWZ1i7JkMJ7bIHqkzaE=w1045-h647-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["shark"]
+		},
+		"zin": {
+			"embed": "Zinogre MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXy87m1KPPpx1GfBSaYVSrQeelpNYmi41kturEUwso7hcK_f8CgIbZbtDB-KRpXUVBWYHLopCNUluh2wqOcbxwNhaGwmq77hvDUEX6lr9G9MmXsM04Hv42uQr4ajL1lP2l9PGZH3JHyVd3hc3rSbY1Q=w1045-h703-no?authuser=0",
+			"source": "Credits:\nPing's MH4G Dex https://sites.google.com/site/pingsdex/pingsmh4gdex",
+			"alt_name": ["puppy"]
+		},
+		"kin": {
+			"embed": "Kinsects Paths MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWlhrr1qe_8dxDTN0Q93pKsbpNbNH01WcIlxlvubXOjoqMoNlCZaTcvh71XsfG8Yw0qRMPWf1_DP_CCb-K4w2aRLtaR-5rrMbgRc2qmR_uUhPjDgAvCwomWnh91qEpRG136v4_oZuLgtTqAzddnT7V8=w739-h842-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server"
+		},
+		"relic gun": {
+			"embed": "Relic Ranged Weapons Stats MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX7HL8ASg7K7-LMNXU0UtFMvij3gmG9wF_LEZMi4YTFhC5GzbohSLqwZT1sisPFUHa14VsVyz8NP9RLBJ_GqIjVssBZLxeRQ9vVEYtJXhYgEAK9c-NiXEYqHr7NMr1xIilcMga4j1znV45CmnheMjTE=w1280-h627-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server"
+		},
+		"relic arm": {
+			"embed": "Relic Armor MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX3zO8vio98mAYHW9DCLmntNbg2VRuy8_q-JuzJIvwbBK5_2gsJbbJ-ihPMuj0Q5ySczCrNMywI0UO3D7QavCNshHAVAiPNS9FbgkqLShCqOcw9m-Qv-QduOwNBviSvxzY01npGCOeCAeR3Ry10fQS6=w1024-h791-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server"
+		},
+		"relic blade": {
+			"embed": "Relic Melee Weapons Stats MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVZaXCBm68Ybp1RdTwFJ0PjnW15HkFEstEwr5HTDPE9jHgweWxA5NrVYR5cHZlNqO5XpdA3Uv7V1r4gfeAruRzaH4Ci-_e9uOTGHrVkaHB3lfrrHQm6zFSdwHgBhAMIcmw3tfVsJPnrO1PviO9Dxl8I=w648-h842-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server"
+		},
+		"relic des": {
+			"embed": "Relic Melee Weapons Designs MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUTYeCuy0HeKG7ZtWi-Bwd5lWV6iiGkYwfBTHR5WqhCqnr_UeyWGB5fJdcf6OSf16aLRq8xCi55-eX94Lo0TWsYNKOUxk5hZqUfzXqNUlbFn1KbeDG4o5ktrgUBpaW8NYe-VvlKv4SldV_fgSAu3QZ7=w1280-h567-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server"
+		},
+		"relic stat": {
+			"embed": "Relic Weapons Stats MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWBvysb_o1qcJsbWeNsUe_tTkBhl9ZYO_-tjslFcMCObYyvLd2IIbxv-47EPgY2sUWzWSP86pVLCPc5dS9Rz9pjkvwmvuxeEKXr1ilIcOsIskMXWIczaZYfC6Kj6ujYxHpYgD2_KXmD-VGeu2VkSBxg=w1280-h592-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server"
+		},
+		"gs": {
+			"embed": "Relic Great Sword MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUu8msvM3Djqh9SVYe0mulcM7SM1RHYcVspZHuafZQjLMPBlTe1p-MEKURvaMGf-HD2VJ94ld5TbyzwZfurxCLJCWRMZCJcW2jSEpgob6zFxOez8xHJfdu2bwaZtp_FinpUjES-vyM5L4kgFigntadx=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEWR8ZPF2vgT6EDYXNi-i1E5MVQaZ1QRlROZ5Xj4y6KjVGW9tWiJwL2DNN8jn6Nx7EfA2G4802wtpDaaBWbpa2RRKK0cljnue3NbwuJBbEli5wWK4RIToWZjCvuvdLDj_ik6HbP4JeBQr6Tieb-dCNhk=w320-h319-no?authuser=1",
+			"alt_name": ["great sword"]
+		},
+		"ls": {
+			"embed": "Relic Long Sword MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXAdjuMZzHF-v0ru3AALEHKc-mSqe0hzaAnd_8gMQqeDNjpojrwGL1aL-rJuiqONEbiE_AL5ubYQR0UbuIq9pZN8gwUm0lQL_NyvmqXKd2BjeJXBPy49wn_SalsxA9NnGKaegRJwjaX6zWDBWIIcxqd=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEVY6sRte6NNO5b8dQw5O2FXuxGzjgbQ04r6p--IajiEUpfTBNyhWejPt0AS-m1Df-IOPyK2qbWVOioIkKRzUFjizhLfD8JmDPDmfIa5oaPzr-2YXsoe6ucZOqeTWVWA92rmqhabZEgSqMB5zEvJCU0a=s320-no?authuser=1",
+			"alt_name": ["long sword"]
+		},
+		"sns": {
+			"embed": "Relic Sword and Shield MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXkguiVEgi76KFvxPRBrdesrovlpdkLMO16PavdOUtA5anr-NVI92wBfPFbj4Wst-Xv7B3XPG88b_4l0cUb43TDhNrtpwknKePHc_NNqlHg2QR7PQkFWXxwSia-PG4168swG1PgsbfI47yjcGarhW_m=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEVUg3erbBNJiWE05ybfYxqfblGTaUjJlRk3VVMZUyqk2Pr1x2l8yWLGHY2QaCqiW9-L6I1x4xRkR7bE77F8QW9vuNLOJzBz8pZzGIsBBQpKKlwkdwnkAU7nG5aliJb6ioqtqcUbwn69723AmbFx89-8=s320-no?authuser=1",
+			"alt_name": ["sword and shield", "sword&shield"]
+		},
+		"db": {
+			"embed": "Relic Dual Blades MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVdSIn5T2DA3rfKe04pKgtUhjn92e9AbPXrEC6aIKfJoLw6Qsn4E_GoQfVwmKmcQdRNSDQ_fxJfiQEGkdtU8hjrcJciTuo8GBNppzLUz2KJcxa4b-NN1J33f4Wj_DiiPI_hVb5mygwuGLRqqmCXOGjV=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEUuDWvE6ACP_tRDVhcZsUED317akrrN3kwaobm9RKhTK8lraYZoUWM9O7OmIXhTMur3-JKo01zbzGRK-CCk_6CSZQ8pvzwsKnqJUiIFM2B4HeN48tkKeeLfOKE9h-pXrKSAEHTPyRnQ0cR7cslAQQH-=s320-no?authuser=1",
+			"alt_name": ["dual blades", "dual swords"]
+		},
+		"ham": {
+			"embed": "Relic Hammer MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXgqKVDTtL1a5DQH65TOkzPurvqPTDch-kZekYXke1_3oAda3y9-B-qCzoWBNUBQQFKZz_REjGdixRAd0_4wQvqoLkbCP9BK3sIx_Odzh5QUaMVU-73L7qmLYtLDk885C0bHZ8yO-6-Vb6qI7B_mMUQ=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEVkJADNz14yter69_4mV7SeeftldjXTw2d2TrIbEXn91-wGdWAU9W6YpTGneNtiQOUF4QpJ0_anAOAV7U9jbZaNwV4JVnH1gwcgIrLB4d189eUPrAI2stGv_gH_xOjtVzu4TvC_BXXhDohZSUP5oxQv=s320-no?authuser=1",
+			"alt_name": ["hammer"]
+		},
+		"hh": {
+			"embed": "Relic Hunting Horn MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXb9eHrKe2-BtHn5euXSd9VpIs_iLRYg2gKOiQff89MdMObUKG9hgYhHAs68NJ_75-9D_WZHjTvyU6fOZkYZnjURuE2KzZL03pOY_w0063Exl9c9RWx8Vk6L9ynwWHy6Zay2qtRNBb-V8Gu9Lp4sE2u=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEW43HmTwZp3YohAKPr-jOSzWRJrEreDFci2grJAqCcstDn_qIrKsbcYoL1zABOljIwVsQ3MgQb9r7FM4mFlDhhhYcxFYXOVfBQFqhK1BeN8Bq8MLfI7MHQQ-Z4ALbv27mQPQxJlIlPquy1TFxU7Eu3w=s320-no?authuser=1",
+			"alt_name": ["hunting horn"]
+		},
+		"lan": {
+			"embed": "Relic Lance MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVUWQ-nrM7vwi9Ax3h5PnZle2zehIvYsvO8N3LJY19Cg9Ms1w3rqhT1_ztG54Dk13i0k0jC4tNBDXl5HV4utl4UJWmtB_FX6h0oWY4ZTTR-e5TFP10eXTrxzsYPmApYEPPYH19tPvkXEIvbNoLRGrj7=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEUB69ghjZltNSg-YjcZannbUNH5cWnCtxkgyVCxIkhyj6Dlh-b5NDMFBjQXbpit4IpSFqMtUcVRXnRDCoj0Y_tA8IDfJ0m5Z6sO6KBWKke6g7UHM-OvZzoC05nrCWtNtnsQc5nQnP3DA9yiaJD6YYlo=s320-no?authuser=1"
+		},
+		"gl": {
+			"embed": "Relic Gunlance MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU0lKfFbNosLohS-jdeRcnF5kBVSs91zHhlfMs5LymfuFbVykyCXWfS5q3F6KKAsEsH8dP1rB4i-ndkICrT1Cl1lCQnW95dyusZqOwhUYzK7xxO4iAkfNHk5D66YUmGdy6cXENViKvwDgqAU8N1IZCP=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEURGYFzDj2CwJmq2j8K23U_sktxSn0reDnVca23GieYyhqLxELbkIo16SFbV1PzaMmsqEOviTZVXn2eWboOjUfCk-qh03oWMfK_-IgXXTidJ5VkOufTtprnLnFB-5T40ScI9lMm7j4J46UaqF3tVt4l=s320-no?authuser=1",
+			"alt_name": ["gunlance"]
+		},
+		"sw": {
+			"embed": "Relic Switch Axe MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUF7tOtRiP3ZHLxutZaeKpspyMWwkUjvxefmTgL3Sky2nSb_4amV6xrcVKij5fjRUkEB5S4PmdESboUz56vrcvOFx2d1x-urxlB82Itd1XF-U1o8jq96huYGYWD8W4oYHrqiwBKZfYRW1xeWnnVCV2W=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/Z9Tl0Cx4KBVjN-CCGoJo79wADrxfhbaqT_oLs6IJFN6-gocHrSe-UQOU1-EW3bv80bZmpLaJ5uQasKBsiTIzpSMmVceCGDOEQ5i8jquWiS7pMtg1Lq1e1rDNmgnYxiGLEwJtu0RelX3qbdU0k5-QPUhmJ7lwpvqB3aQ5tWiB1ACx-pZXKcsTTV-fwuBsRdhddHkkrpRVM6RtFID10t7biFbeBvrY13FbVc9Y5e4rCBvboSdCoNDa0in1TQbYZ6dGha4F4Hu2ysfrk6E-q9KTvQ5wVvd8eN7M5fmhpxkM8ip9ryGxh8G4G_QnXef7Zdl9-dI-vGgfzCQObrnV0QOFwfbZe1gMkOuplctSyEvnSFD1Wu6YNwtHtBMhvZ5weKjzUFw-bU4eqS-p9W3xIXnoLIVYKuUmfGd5VhGiddxABr9ZkxverkvJbtkU3z47QVbulAEaNPnY8f-xiWvHg9THH3DPon-oRJXtV113uWdka0Y5Vj96i8N9XUuvptYEUNEBT-Do1XMxMUaEM82QGyXj0yr996geY4tI7XONuuhWbAHSuCz_lqa2N6Y-sbQ_PEr41ojOmN_pL8MeeB6d_UjGsLAObCvjw9wUWgyam7ktiAqM-Pw5SPBVX-oPqnS-NwIHjWJOz6HG9Jf27Yzn-Eq5Hw4mm99DAYFC90wwwsxT62LwDDYh9FL0OEasSnt0EPXrxPUyg-BoNBKc8FtHqelCNcL_jEtZKp6O-ITevPm3U72ZUexSqf2Zk4nKa7pOWWmwdQLyD5Uur388kyuQUy7myag_d1X-dqo84ei6gMeseNISXn1xfBqTLjq5gxftco7ekZopPI8Sf4M-5vi1AGj6GwUCSN5Q1kjUX4itR9WeOdVnK93sOOCdVVOK9vO02fjUkYFvbuoHJ2LvoTdZOgB2QymZa3KdtQbpY7ATxx7-a2EfRzIRuu5FtX9G2yBgWD1YFZeTf29MUBORZ38xYrE6=w320-h320-s-no?authuser=1",
+			"alt_name": ["switch axe", "axe"]
+		},
+		"cb": {
+			"embed": "Relic Charge Blade MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX46hhZFiCIy6Y-0ANNXDe3yeYGNezCub2ixLQdrD8LKUreyZNnFh-wd1jWQ871c0k7R2EiP3sgCfcc8IyUO_S_Oh3EMt_PWp1j7mNtaaie0DtW0lqKiMi3usfxjhmfNvE41x5JamzRSo9qwycjPFfQ=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/KR1vr9-MfLWK7vFYF7nmYL2VIGNXjhP3g4Zhzt6tIEJethsTo56r4ZZCrRMK_HtbKVtHaOeVVe1aH52ZgQjuG5KsRkchFx1IH1cmDDe0DxGoYpFSoS4KK-R0zSzXHB8M3oGMDz2enMSfUWgVSPH6NVVYSBwMtm2pvG7Pu3xEAJrPs6Dvv_sekJluDr3ifDtFrUT39Q0rlVjlFrhN8Rg1ziH4WioeOMhlaFch7q3oZfeyVjcIbr4vhufkF_bwnnoyl_7hipumn-EAcMtA4YbT-W4ldlCN0O6txHjsWqbDCqbGiDS9xIYSH0ynt0M4dJumeVPS02h4GfF8KKSLy8SiBzFkfz397zE3JoORc44wKNSjFhU1VAPbGr1TIoZMenQU2CMSxfWJAnb_u5VXnYM36KQ4r8qpaN82YdlzBYIQDV6ycPjBcDN-WKgAFqDYwrPvYuETS17VSkhB6v9Whfy4-8G6NTSpjXvdIVuBz3g9IMAxBblhiAC358fm24DhWarDuALHgx0ubO201vw5WfRNOP3KmsF9iDXZP71adndVzoGAb_afCaI4-ymbNALdC-7q2Urij1PaQjBMrRUibBPGx3q0keS_IrSltzG4t21wP2Q-GYRdOi2VmCM_v-hiRb8tQmnuV0DT6TbKeTAEG6rduXaf9vijAt_IOBkMO1cHJU-yFS-oRgOTIiPHtbivG1s-nYZZK5II1MuQzSJJ0JyLoxyQIPyz9TT_QnZOZttjkvcc5IVlpFTIj_BH8mjmCzlJnhwF4dxcFqOXG9VMypBK_qQYGdSXa37wBhfkB4KM6Bg8-lIuTm4naWMwS7UHvzj5W9My_RVypO6xNCJ3x7F-cDRNE0UdDtMSMPU5wX8rVRTua9XTcTOo2Oew600T-zuy3kh-NbBpekcdjoRqXjgYG4uyNQbQVcQoqudyr13m9e4KUgx5EW54yogS-4SfD1KfVsmZkUYkjJo6ut3dBghU=w320-h320-s-no?authuser=1",
+			"alt_name": ["charge blade"]
+		},
+		"ig": {
+			"embed": "Relic Insect Glaive MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWh9GvxGhuvVK1eHDIm5KDX8hKq8VDDB091Vy6VLX3Rex0gNu2evw1ldyQoRUZq6ev6bRDigwTELjA8gED-1ux0dxMCYUKj5wYzv-s-Axn0akv1qivqxNTLhuhHgeXlOb_TXUpIMjSCLWoB7dZdlMUu=w1280-h238-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/ZzL4UrNIjtyYyIDYxMRzRiWMYNGgnqMPfowolMURF4NacM3WFJA0x7D8Mz17D2VJ0385-kXym1xIC9ToMSF-amLUf6GZJZn8bfBJ1Ly8xJMcYrZt3R8k-Y2aDTqwQ5MzXu2GPDgnTB7m8Gd-lWudVToRPGlIMgxByIazGDyRdcqwebqBC3x9DigUHQ6mK0O0-bwJctzotE9hcimyAmXkU_ZozLJ_yu4P-ORF1INc9fRHgJ7dIHl7iD-uLrcBCJ19aitliy_tbP-OvWR7kVYxFbVkMiLRkeztBeOCJF2WW0SCTbghw2qIujLpCWvhF5kkTK05zxYDALYYWVVj4wVGqtqu7EnBIpi86HirV1be6YHLLzaJJM3hZRoYi3K8djWGITnfKlpfoZngKLBnZ8z0DDlFIR1pU6R3a9Im8UXeDs39pLl6UN8Hjsvyzs1O3Ule2oyi3XhaSAVW9AqPejeixR5Ok2SnfwgFpr_CBFCNUuZOB8UAbq3lp0Isgna5QDVZGLO8yAfj8UcQAubbxwmCyvZFXGnQ69K0ULFK7m1W1KFZ5x__kLX3o5d7PYv95v5ZVg6qGAytDhadxrLql-h4L9WkBiIzDZKuiSaEDSldxXUVH4zOQQitO9WTdDct9kS_Qr_Z-RckxtwrIjuKUxgRu-5-qIC_bVAWbPejURadYaNYgbhvNjdW3fD3lw-KoFKZ2a90enjJDJwORS_elD88qytZ2IByG7N4Gf4rd_nv7Z_1waYAznOU81R4D51JjE8R9sSERbkNVoCB_83JGkO5Ua0rtffnyDwS1sJI6UzGjlnOXR56jsWfPtSxq8JcIqywKoVijPUHuR7FO_120Na1a6AWiN838mzjCoSQMG0XlFXP4ePlMu9ZaPERiuGcDAFKV7BeM0xZYN1mKhsRZYrivZAyvT6SHwgEnqTEgr5mVeYH8qt2qxGwcVEb_5SsLJK1t3yxw3yQdgDQM5YEcnFG=w320-h320-s-no?authuser=1",
+			"alt_name": ["insect glaive"]
+		},
+		"lbg": {
+			"embed": "Relic Light Bowgun MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AL9nZEWKZ9l6i94yZGetPNFP-BuMYt7RNB_N5q6QUM4KiZAjfEnDaXhJmcIhBxqnfYIn-OaZJIHkUd73uUH_UsSPH3OYiVeXVGAR0yeU2lnyw3flbZNrBP1L0vWcD32zo1OM90dCO-pvbA1YP_8iDQS3Pmir=w1218-h647-no?authuser=1",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEXuOJs4EBZk88fR8Sh7nzclodv9R53qhzcBvXyDnYWYTlrywS7Uu4_0Wz-vLCyKqeWX5f95gi1_A_VNBHDzA1ODnIUkHDiQoUy-V6OdwCwA9raLlOvwxpKwJO_Fe8WFBdr3piHBAY5mTDi09SwwAW4o=s320-no?authuser=1",
+			"alt_name": ["light bowgun"]
+		},
+		"hbg": {
+			"embed": "Relic Heavy Bowgun MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AL9nZEU-bkVELu5ZfGcOLd5M01c9VmGUSj4glcmqnLqh7iTV3yXKkOJXpSKo37Fes-PM-VAcstWBqGeVH4nbemZE3zCw9XdigY4S49wer_75zNlfdvqDQs2MfbTss6kvU-6o0S6gz1kBfzdesZUKScJ6ByJW=w1218-h626-no?authuser=1",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEWGfS0LchKEQibAbFgkPIcSXjk5RpXcZXkDUeV_FJubQPbg1jHf0y76wUNEGYeeufeHZj6_hR5jxA5xiAgoHl0Sq16iB3Gk4m5lpe7KPNFBjCUJCg-Dn__u4yO5xB0EjDs1yeCJ14VnP8o_PdKO1nnh=s320-no?authuser=1",
+			"alt_name": ["heavy bowgun"]
+		},
+		"bow": {
+			"embed": "Relic Bow MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AL9nZEXUqgS1Z-Ta3F1k28ritQlrYLuVZGrOfzus93qtIAecAqnpV2Sy28J3einE5vmjJdYALP5TIxtog3zVNw4IkpkzmMgHGQKHZs90larVpubSs2_0M6XqxtnN86oSJHM01AXwGueQD-wEWDrBdt-rOPie=w1847-h685-no?authuser=1",
+			"source": "Credits:\nAnthena's MH4U Discord server",
+			"icon" : "https://lh3.googleusercontent.com/pw/AL9nZEXqOZEYNJRMv_3R6T2ilAgbkuXW4t0iMI-iuFp91sTUtTph1q-7Q1WWOGoaFR7SOcSERTwiqX2zP-WtYGEc-beo4l0Lt3f0iwgCNr1_gchbOoFCha3h9odNFpEeyyKIS6z0fj0RZIPd_Bt_NdMTC4E4=s320-no?authuser=1",
+			"alt_name": ["bw"]
+		},
+		"ks": {
+			"embed": "Kinsect Stats MH4U",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU-YAKk-MfytrEJtQeD_dnByjRy0Nuv9xVfqZrSkX6VVhaVGfOBKFX_hOdYRtnYdA1Ndv5p9CYcrLDPt0MSsJhCgXSTv4fjWaoNrRPnw7_bIMNtRYFqgBP9wN-2QGthv-VBTd-KawWADBEEhAFSXIXh=w434-h842-no?authuser=0",
+			"source": "Credits:\nAnthena's MH4U Discord server"
+		}
+	},
+	"x": {
+		"agn": {
+			"embed": "Agnaktor MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXeEMKOCgFuVwhDUIwbmFoYggX7K-5H5OxC5ODGtynG1IZBL1sr29qQ1PtdvPfAe2cJj1BqkNQhQ7h0vZJxz-TlAw9Y2B18I4ubq-Vi-o32vhsE2SEMDR5i_lkS33_PrQiWG0KFnyggdLdGN4WB6LqT=w1042-h675-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"aht": {
+			"embed": "Ahtal-Ka MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWvCdYJ4EMdkhNcF0kd5rl0ARBqyyzZHi2CeFsKizmMe7W7Crry9vQJRahAHQhOOJ6AknpFrFZW20OsjUATd0bVlHk9ebR2pRqxcULBA__pw_v9qWzD3bxEyn0kv3l_L5-t_Cz-AMh1eI1eH3MLZUfC=w1043-h730-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"aka": {
+			"embed": "Akantor MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXDAPnANWdYvI2m3Rjv_W32zXaWsRVXYLApyERaLai26G42yAPA8lXWsL902O_Ub72FzSFGtGVN1tSUDqgc0EFEpGbjV8anFmQmgAkHNhQN7Tfyp9rvhipf3CY55tPRg7M3p_HzzkrEGLCQnNZ7Yq3J=w1042-h675-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"ala": {
+			"embed": "Alatreon MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWWaW7mm3MZLPC9qtkEYUfABff_Q7KeWwveF6OxVACyMWCOxQVdJGlUksMC8cwNC3IK3VlDRQRBQsAE0wCThkCjXftA2yoAL8tIcdcbJcJAkZR1DsckHfq88BayOmnH0D03VGCCloCB4sKWkJbNqTCg=w1043-h620-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"ama": {
+			"embed": "Amatsu MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUITNNrn3lKzzkMpxBFRfPv1ZqhaiYXiNrGc_PX07JmSIvV_Fwz7Ln3qJ3V8N_4tbSLHdshy7IL-UaJMj3BPdtMIGhRC8hCw_Snvbpz1oSyNj2wRtH_5xI6YBqf3rSa2hgHDSZBVfUHp3Q6cOW7G--v=w1043-h508-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"arz": {
+			"embed": "Arzuros MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVN5G2Kga49tWnusPSDkVO8n3R8VQUeAwGXTRiMaW02R0QmzqakMy38q67CbfcDhC7oEW02lnm4vPmZLPqKCACBQVCWeh31-UoeWRCbu7pZcwsBIWI1Kxf89IdfUKRjy5o1uHinnu-6LTj667NffPBC=w1044-h565-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["bear"]
+		},
+		"ast": {
+			"embed": "Astalos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVfcVjfz8LS_wN4Hehz_gqC9vvkwAoSO500piMjhMvu_uXm8dYe3Kpo6qXMzYYN4xGUAQHdk7ONB8QoWhreovj_E5W0PIma6zffbCfTtDFSKi8dKT0WIr3WIGXiPRphPdw-y2Z5RsUTB72CjcmN8FiS=w1043-h673-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"bari": {
+			"embed": "Barioth MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXQXC_5oawv47xX4NBjp6ECXauPyfkHDdVTUsbjpdYrdH7WZHHd5v_aIXwiXVPBNZuBgCiq7lU65afSLhZdP9-wADBo_nOyjru3itVHRbsRnCA7pwNp7c4AFZaLKFy9DIGIlYeZR9sq1tvjE-P17s4H=w1044-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"barr": {
+			"embed": "Barroth MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXQuF73F4ykBSUQPiLqdn_VQz_vrTg0-MFm3RJe3aP-wMMoX4jNJb1_Rty881qDszY1L0y7FmiZQzygviKH1I2VM5Qwzk9503W5LKKgOxGc-0TmyLxP-KtmTUxD1b5Kf32GVCzgtl3-uOcagLLlfbDM=w1042-h565-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"bas": {
+			"embed": "Basarios MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXZUT-xsAepD46cKHCGLFsrrMW6LXCCikPQk2D5CIXNev1JGtjx2dSmghRHUA9or9au8TWoFVdoqyGpd4du7YFMjFVKEOCfVo3yS3llCykgaYjSgZKl_6wJx4rmtPirARTFrmISuPxbjPvK_RiBQGbU=w1045-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"bla": {
+			"embed": "Blangonga MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVrTQ-Lwye-ISpLioiSjAw2P1yan1DMF0ugDAMXTXSCIeh96fj-U-melhA4Sp8PcdJKq2XFJMqVGvdo4QDoNkj4iNOm8BlJErGLVrcBx0BCb_h0w16Ib8RPIPfwLSSk9reOdyayAQ3vOTRyUWfwZTp_=w1043-h427-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["gong"]
+		},
+		"blo": {
+			"embed": "Bloodbath Diablos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUM1GtDcrwj1TYUbhLTZkUBk-PkeQH2xYkABUkxgY5NwQloA-b9vAXg5oBqNlKZ14Xp2cDVWGUvU9DylvirGMIBhsP9PkRhxng5e5ELM7HhJZF8xyxbHLOr9D7qy7MUaiKMVsxh_jGesIbnZ42BLqNT=w1043-h647-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["bb"]
+		},
+		"bol": {
+			"embed": "Boltreaver Astalos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVL7FS0iZj8bpo31menE3eQKMgYt2M8YvZLquhmJx73YsbXlJGLck8IwhMlgi9Ir9IOHEtHLMJn0MMpdT48PItQgMsjESl5A-r4B0EJ2XHImQM3zHqAIW4idwWUOCTQFFD2upa9AtxklSN6SOUNOfvX=w1043-h647-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["br"]
+		},
+		"bra": {
+			"embed": "Brachydios MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXVHDWFdA7qkXTl-sZdVgfulbujj09b6YvZ0hq7Bs39i3A07SI5D3yE8UWJiAB33Hz6tEAprelZokvjhnGt0BfeODFO-DG7gakMdExbY-0g5GY7xsfFvFU7Mr7NZb0q4jzhPw39MSo1K3n8ODJcnl6M=w1043-h481-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["dio"]
+		},
+		"bul": {
+			"embed": "Bulldrome MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWl2kotIhYq59wObZjo-N2e7q3jF72H7TgPesLzzOsb5YcGVt0KeCKp0pKWcgt2nNgVonM3VkKUGXFqdG3YiDV1p1KOfN9Pxjv7q6mSLDkKUOtRHqPuAswDYtV_iHP38H5Js4AsqYiFBszf2C6an8Y6=w1043-h398-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"cep": {
+			"embed": "Cephadrome MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVA8wAQAyWaERQo5k2qPAcFTL6fMq63DvVRBld1fJmY1MeBKIMD0OV7hC-dIaFxdbK5-iHZQEvJTqVsGWHoUcstH8GP8oJ3T6Eoz5CiiCG7sJz950q7DtHRMSyeio4n5ccwQM_Tgjes0hQgdtul3CNt=w1043-h484-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"cham": {
+			"embed": "Chameleos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVCt9jhZTK5ZhC4n2ZPwa19wilaKC5ibELVpJn6Zh0xqMVTTXNo02a6Dy2ue_VS89HcUhTE4J48bxxnsqmGwoeMp_sH4BcytVhvoOUKcc-w_LqF6dchmIDVB7rekX33cwnxo_muhYml3p5_eI0b5lnL=w1044-h677-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"chao": {
+			"embed": "Chaotic Gore Magala MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV78Z-3N5uND1ayCKrw1sMmuYB-OFYlSSeX39eP8hkPmgLkhTsdvLbMeQIC54uw7goRhxli231FHpTrGZFXh-umLJR60odQsQJPxj5e-K8z5NGG29UFv0lXCWOGka6rZ64e9JiWajxCXKCfnzeYXcgx=w1044-h565-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["cgor", "cmag"]
+		},
+		"cong": {
+			"embed": "Congalala MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVAM4VRTwVKFNq8RAX06o8yHfqmDIfWNlaV9TyKo7mxQKruRk2tX9ABixriDUQHle1z8q9mxKM21GFP5lr691gOcA65CHIYuRYev5GhSs6GrcjZmsY5e86C3Pv61T9B1yC2JhUv4Y8cZioXcBHWQhB0=w1043-h563-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"cri": {
+			"embed": "Crimson Fatalis MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUycWMjmhNA5Z5Zc7Xo5vZil48I_uO3o-rgjRACw4dXJ1JcZgldLjlpy8OMSXdpmjpvoYk8GY5CN7ds8EYZLs3Mczj_qIq_nrWnCACO7kWfbQK82pB23B62xijETKgeD_nDjgpHN2B4IDZy9Zan_Dsu=w1043-h730-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["cfat"]
+		},
+		"whi": {
+			"embed": "White Fatalis MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWdvg5MV0idGzPkEKx9o2naINZJ5OxpynCpcPeATV9rX6SL4JS_Fz0DJEwwuJbUi4PtpkM609u83p-GFEpRbieaU6NTObyoakq7DLvKdQ-mCN6rNcNJUfg_ioKJiiXggnkS9eTrN3hMl9JbM8Vy5e2t=w1044-h730-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["wfat"]
+		},
+		"cry": {
+			"embed": "Crystalbeard Uragaan MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVPCnN-qQHvUluMcsYmMkMouvLphVtQx47p9LaoVUD8W4xXgC3hUaEF7WK3-FvjinGbC2zygDbX5NYYZpfJkzNROFlL4aqN_XWAVyQ6MDflRJrGVCuFRFxLH5-WXotWH6dJAXWshhrFYm1Q_iCswRWI=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["cb"]
+		},
+		"dai": {
+			"embed": "Daimyo Hermitaur MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXwSRfe1j-qW5K6VpMa81BNyQDN-Crb4d_5O0GlXOxXX4JT7520uQMYR-xK1glg48XdNFpo3e5W5gerBADi7Vv2oIo5mF1_7GEs3w99cFPWiUZXqvGiFGK4XAUz_nvVkIU9GUINAi8lDD_p5Qm5TYbz=w1043-h675-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["hermi", "crab"]
+		},
+		"dea": {
+			"embed": "Deadeye Yian Garuga MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXxT83BDfsN_fkG1KHr-RPvq3d6rV8wkOuSQY_VNcdWU_FLX7tbYxrtMKJlHJYUvwojwFlcsEMz3o1XNYkrigmOfhP2QVQFXuSjcRA6ZVSCpACO4xT9G3KLYhOLPUErWrl4ntHcAVm3FqClAX_TxHH2=w1045-h510-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"dev": {
+			"embed": "Deviljho MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXjW6X1bv9DZd7zBxHQb5yWMJGR4UVzTBKvCGIy59eMBlbq_g91LVpbPDI-88ALCsqFr6v0Cr9oGXJdc4XLEvmacVWaoGYzD3DwixLrc-gvhz5Ufe-wlW_ht6F9VutsNbsskCLo4r9DssmUWEOVUJUs=w1042-h618-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["jho"]
+		},
+		"dia": {
+			"embed": "Diablos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX2S6IVgx8vm_wiHEr3ehbEVakZw4IQZ8XulYmhsfqBu-JpFIQfaBWH0STjqMuNjSl9Vh3EdbWKctn5u2kbfoCZDT06aLUjjV_rIDxxY0CbpA7FN0VGIA398ZLPTsxMmyfPSHQaQ765yVzPpD1OXgtf=w1043-h510-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["blos"]
+		},
+		"dreadk": {
+			"embed": "Dreadking Rathalos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWI4QTB3sFWKFcwKxajYKzPZaS1plSsnpOPlFhMwFQV6pZKthhMuqj5e8lluigkjvElozpnCFveK58iwOvOF_JaKK-Jg8um-EGHQSTO8edOAkH52fqjwlge5U7BoS-ut4PH-5hmuBr0uH_DKxDcQ9mP=w1043-h592-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["dk"]
+		},
+		"dreadq": {
+			"embed": "Dreadqueen Rathian MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUC1fQUQNtTPbcJPUY9mu9N3D8lVPKwAfWqjDbHTlS1DKZG3gatgDZrmY3J3ubqVJTNJ1OpKGNxetz7a4h2U2znc0FeVNY3VYDTxkdP5VrYrNw1l1QZtRLM_PL4AAjeK649h-ONkDcAXkIpDR-hplBc=w1044-h593-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["dq"]
+		},
+		"dri": {
+			"embed": "Drilltusk Tetsucabra MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX8yuAGtIcvKlG0K9sy1cHWYKleKxB_i4J5EUNQU3LvxS3TrEUU7sJonYU-ap24Qb0QFSdWaaJtdxSM4NQHnqHmjGqCRpPjxpFKjcknUUaazXwdtzV7qyfzOqXwNkT4T1k9s-3Hi691POI5zMNtoflw=w1043-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["dt"]
+		},
+		"dur": {
+			"embed": "Duramboros MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWIrMR9g-v4KqlksQRC2_oixQP_zKp9QjhDiu3HOohAjCuBQBa-TRd0pimXK26lchj5wNwyFFSMzqw_NFafg66524Y2W5sfRjZD_09LjjjwH4usTeMfnaJAnsaXWzCUhCXpo6iAu4CQ3bioKNyUNYSH=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"eld": {
+			"embed": "Elderfrost Gammoth MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVZKziKkJGffAtmBHQpd36srbmVzplAjZb5FK7ptLCVEumFNK48_-CTDDy6NY1t3oQxA32TqvvKftJfnZAsR8lE_yQ7GUIGjMTcGwYd6vspDfm-0EmFU--1LSmvFCF7u0lxomi9bzQH0xIFHHYPAjaN=w1042-h563-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["ef"]
+		},
+		"fata": {
+			"embed": "Fatalis MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUxjnAgapPmHNp1KdDVK8pGD105BCy4kev4_2ZQeruOBT4LoYT0cBmT6H9yiGpp8fnvvF7bQYPO6USt65Bn0iCVRwMGvKMrSGaAOU2dSGy9qoH82vOxT3wZpyNdEXEOPT1YtaZH3CcivKXhBzN9K2ty=w1042-h510-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["fat"]
+		},
+		"fur": {
+			"embed": "Furious Rajang MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVU6f56FmWKdxQMle6-emW6GfPSKLnwk0r1e2hefkVWNWXUpI7KveILuFkSXK9ObyiHmCst8us9X1ccraAg4_0cqLpWysIyqfJrFBoQbtkjIV4GcxVGIb6C-e2CA6zzZR5WXJMqBhpK1MZBRW9aySU4=w1042-h508-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["fjang"]
+		},
+		"gam": {
+			"embed": "Gammoth MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXGKdsFjZn1URd5wjY0v501uVK2Byss4HOH8YPUonQJ_I3G01LrV3zrw-7_pFGj_2i_iLYWBxvKLEZRWbbP_OpQWqg_e9kGnK_oKn9lPuC90vjk3UnFW_Lai0gpt8DKch475uD2ftiReOeSQmKBKADT=w1043-h563-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"gend": {
+			"embed": "Gendrome MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU3DNIwIl1A_XTmLr1woHogQgLPDEfrDzV_EIIXxVXIw7G8zFD7NIdKKks8sNORzeYXjnZwM7sZvP--W87y_BCF0AosA_udL6TUzOQJf9nchdNQKss0jXn_W41BS1JQPezspH3sgmj-o7O5NjNyIa1l=w1042-h398-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["gdrom"]
+		},
+		"gia": {
+			"embed": "Giadrome MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXHKR3qtuk56ZeVJ22JqDGsoKwnqaGwwOqPyI5nvz2_p9xwvdjyEb4njef3a-iTn_bSUpNBJ7ZFp0Q9N2Ehe5T3jjIgOOhwvml4yclBfyn_vn99cnqQSA5VcgRU3mDfJgCsFlc4xbnCrNPNSDB0EOiy=w1044-h398-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["gidrom"]
+		},
+		"gla": {
+			"embed": "Glavenus MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVZN_44-eNMLccop-8ykD8vPr26xUWWp3Rn2K6Vxpbfi3suVwUN2PQehCrlmsMeWpHI0oCPfTwxqhuOmM6xOTJZqdPJzheFemy4UZrYdIwj14OIAwraZqHd2B3g4YRe5XMJNCFHmcjPyaKLsWrnj1Yb=w1043-h647-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"gol": {
+			"embed": "Gold Rathian MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXEtKZnn1PBjTqgKRLOGJDOeR1vnYYTavnPTVuMCbVFyBuOSlQlc8zdiz85K4aNMILC84IdA1obmyW6MnO_IpyHPKzRv9yWhpHUzLJ5lIPkEjqGqae81ZmLgYw5B70dM3PEE6DCyuetOq1WR7uaLj2c=w1042-h538-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["gian"]
+		},
+		"gor": {
+			"embed": "Gore Magala MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXDmBoEPQ7KfgYtgukbc5M7ppUtFA3BbyV2oXoZ79r29t3znZYLmQkF9cg5JPHbVXwud1Jv-737TNhIGwiWWVimgQFeOM7DuvKl0dTLjpw5j4CaUHUtPzhawgTtcLIaalkhP7ZjH9AB-Z7impg-vQ62=w1044-h565-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["maga"]
+		},
+		"gra": {
+			"embed": "Gravios MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUQtkguZ6Lj6H6vpwPPcvOYwdaTeKjM2gJ1J2kL6U2anU0Iq14va8fa5yHplCPaLSM0VmjM9hWJBVx3P4EZCKTHH6eLR0gUm2H84hZy3BF8KRzP0SeNgAl0dsm89AeJTk7Rxx6QFv1FISsP_9QgekBD=w1042-h592-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"great m": {
+			"embed": "Great Maccao MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUp9CU7xhOXwIpTluCsG1U6jbivWEkbBw5QuHONdZGh8kd4E-f9xirJVyPs4pjd3lHQHu9BtahkZ21yqojeSX-eoGk8jT3AazPp0trsjkkNYKYvoDE8U2K6-pcx7VK4sQyQKpYkT3g9D8gVPZs_Ge1Q=w1042-h398-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["gmac", "mac"]
+		},
+		"gri": {
+			"embed": "Grimclaw Tigrex MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUysAjlf9aC6ZPzrW_RC2rwr8p68CUxTU462DM__vuaNW1fE8WLPtTCbRKg_dpep96e-tekwq0BQCBdPTS0LgOaAyrbEkwabPkSPyjZrnoGEtk2lauXDUQmxtcz-X-XrWakLHWWd__eO93sxBebqimf=w1043-h620-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["gc"]
+		},
+		"gyp": {
+			"embed": "Gypceros MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVeLWkKySytEQU-ll_tumkP4RmvC_bfOYXr2dMD65x1ai7ZnmTHc98cGziVNBPi1ALO_DCGgcQHAnZN5Xp9jwUQxuFLSXCuKobwEx14sbHlj504LkDv8yzEvvyZ8vDIiTcvDoC64a52HrsjSlR6VN6d=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"hel": {
+			"embed": "Hellblade Glavenus MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXNodiHtVgrBFedqshHu2xlGrouqj_XWtHFmdGk9AXgsQXOQNP6i7jZkGoXBT5zA4PyJRyPCojyk1PTgWfRKBz9lkWrGNLw8yLgmpCcCVBMD5dRtapVecIMxmTGKQMBJ3rVVsYaVZMAuupwAgngq8nj=w1043-h620-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["hb"]
+		},
+		"iod": {
+			"embed": "Iodrome MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLW_15ss0kjGjg89ntNc1JaPJ-oQ0t9ghiq0edabhf5tWj-bbnlQ8GnEI5q4NmACra-ondDbU7U1iuKWdWS_wpXzSoSTJdzcay1AnavfUbeuf1Gw-fgQSHknvq_H8LeCqmO8YM8Y-szqW4a5V0rMGqfo=w1042-h398-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["idrom"]
+		},
+		"kec": {
+			"embed": "Kecha Wacha MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVFAFbqr9PJItnZQwgFm0QGZoRQOAcMgpjF9b7pBqiS9KCtc8OAgHz9zsBB44HhorVJJS0JHs9vmTJUmC1qgi1e4VhHzLUmzlc94LciFpaF0mN7kGgmEoUMyxeE5e5Rh9stPZNBhnjGnCPgQh3bCwgo=w1043-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["wac"]
+		},
+		"khe": {
+			"embed": "Khezu MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVGSwD8A_K3sABbtxH-jOe_MtbPGWsgmgLWp8PaybgvbxQXmHUC0DuHZll1cRd8akDWI1M5qKmOQJ3RrIw3NrRkLX8ckkiyh4RwH6yRvBEH7VVv1IcAGmWY4T5WJmx63ULp2Uk8HYpOlC5mNb8JN9yz=w1044-h455-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["kez"]
+		},
+		"kir": {
+			"embed": "Kirin MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXs3MRzuqsjzWUhByrPs309T1ene5HvfP8lJZSwEOPxDZ_aOPW2k_kbYM17A-tUPeO_mbPo6WVniiDUSIyx9rrlH2TXSJhunwVtFJAooYwEiFgfbRZXHHTo4BV1_Pt-Pi6S1P_z37cLCtJrfHNTq9jY=w1044-h512-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["pony"]
+		},
+		"kus": {
+			"embed": "Kushala Daora MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLULdc04kL1Lx7w2EymmpInoYFrToc4gWCgubZvTiQ3kmAHe-tgeHdYnHVcn5wFfHWwp2hc6Obert0ozVxAJhHkBZZobRwPvcKIX4klME5QXWoYE5gc8P99T2hZ-fgzSNw1rcc9aTcwiuik9Iqb3u742=w1041-h731-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["dao"]
+		},
+		"lagi": {
+			"embed": "Lagiacrus MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV0BQ25T7OoZvlG97iH5LBo2mIjVYp0hY6xD7SEBoiI-tlEssjG28y9dm9tqr0d53tZNzY0Y3SBaBFFi6yNqrd6BIn_hdY2XMT2fENhda0qDLo1LQ17P3JrAKQX0Uv4xrBvZv8KMpoptWisnsiP4zqC=w1042-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["lagg"]
+		},
+		"lago": {
+			"embed": "Lagombi MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV4R3a36UDhL4E0iazLQu1Oo38E3b1Nq0PUrBB2bIyM2oIQg6p98P80Pk-7FXcbgUq4dIBWvFnnnjHOr_ZDfo_-fcgGoMx1gMyZ8FnnbWzq1Hig_4kgWrI-UYHF1eYc4C5ig-T9bwEawWHV84tAWR3y=w1043-h427-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["bunny"]
+		},
+		"lao": {
+			"embed": "Lao-Shan Lung MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXHAa3XLJwjkiPIqFNOmmMQ_lUWYnRJflop_QBn3ABsWQMmImGDDn0_ScaGf3oEuNXcIw2TFvbK9vydr4iBA5NJc8fr9bas0KIqfkVmy2WkUnqa0mpL7h9kEH83kjj9Rg8Z7wsRw8viuRsKmZqj0Ums=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["shan", "lun"]
+		},
+		"lav": {
+			"embed": "Lavasioth MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX6ATcBvA6Yf788NqNrZAsGH8V5iQPWqDmVnXkF83BuN0tdccExeScBLKhr0QBSjZgjlMKTtMomGFcyo5-j8_bGCmjD_ZTlJ7m9P-fXc_4lr_-MmF1N9GhY7ZZBQIO9p1QfGfUFFuGRrdgAe5Gh4KvY=w1041-h480-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"mal": {
+			"embed": "Malfestio MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXO2dXpSrOWRHEy7AZJ5lLynizM8_PodDTqw4MWqmFh-7zxUcsSa0A_0yaTQPn2LmnAgUyxBYaIDExdvB64KGtgNV66sY7v3iP5D_nV7hKfUAyKs8Ct5hTEjKN-iQlzh8yPxod09WMJwoX6mN9ff8iA=w1042-h455-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"miz": {
+			"embed": "Mizutsune MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLX0xcozDzxXjp3CFFlM98UfdSUIwsXDbDQhGHYxz46qsTDCFvQGjGRdGgM33ZsvkQ9pt5RtKY00vRIpAMJGqLBW-ip5DGS7OHAMX8QbwzxWOmhvTPQaNyk4jWfLS8wtnwgzbZcUzmOQqK8-IOo-vSSG=w1042-h673-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"naj": {
+			"embed": "Najarala MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUdG2AFZw-O3adrFko4BWKHblO_K52Pjwo4-pN_VLGvtJBDXr4hjJTxV26ok-dOiCkL83ObOGczEQY4BiO8RV08TjS8kdLwt-RrhZsgzkrV9n68a5C2t3AE-LX2ZkIaIbU6Aq5OyLV0EUf4Iv84xgLO=w1042-h565-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"nak": {
+			"embed": "Nakarkos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVBaj8W3FVAOxcIZp8LvfQGXg1HwNBmwvq1y98mZIXH6-ZSJy7Ev5ivgx0BoyKQfOEl5cmnEZZzrsmF8E1bdGoo5dtRoeLfurDpTQ0RA2RMhTDARSmEKTwcT2sya4ZvNCaXG2EBA7R4nThLuDp4UTdJ=w1042-h563-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"nar": {
+			"embed": "Nargacuga MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXhmhaGJy_8c3u45SBKIu7vI5zQSBQnwzyoNM_CLpCffNBNT1yNpchyULb6MtI-pV1hgJ0ghNp8FtKeFuFjGilh8Sz609doJJ1wCdbivmAotNHz92O4H9OwwnMUi00UouwNh7cSy57cKal_zAE5syM-=w1043-h565-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"ner": {
+			"embed": "Nerscylla MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLU5gDUev5E9ZUTx4GQhhB8rkkmSpg-d-df9CoZwDSUDYXOnUEM7lbFDSx6u1BFbdk9n7JHU7wdWUA_nX-LkqYdQVTJ9SjYy0a6McL5nAdA0UTwe1acIlmkEuok3sB-yk2PWNw9e4vsTJvS0gFVOB9kZ=w1045-h649-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"nib": {
+			"embed": "Nibelsnarf MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXYZYR3b9QKs6EezbaxKf_q4tJBnsD9noK3si55q4NReD4tc41W9T2EEOJ16UYjU5gvuDHUjuGIIbVRfR09Hc6WGM8dQqoSMKWOePF6wKmp33WStyO-l1pH5qNRV19TVHqJdBr_lTnZ2ajuy7sftodK=w1042-h647-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"nig": {
+			"embed": "Nightcloack Malfestio MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUuT43wBV1YHH3Zs8MUTqQopqpGzs9nLLdlgqexxKi3jQJze5uJEylPAeoi4bJXiKwIpraqfiFII0bpDhsEFJ0uNaZ7AlDrQXgqHp13org3YBLAxA7P8spY-HGjkedNJi8UZdWtzBT8qcTLVjzSBEqX=w1043-h455-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["nc"]
+		},
+		"ple": {
+			"embed": "Plesioth MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVAuF0PiFEcGFPoqQsgkybpq2ZaVtJ6LyAcpJfPY5i2MkJZ73AC4LiXt8Eggtq0-nrdR8Snq86Mojn8hLAiAFkv5sUyf2h8Oz4Zhlo8AQU2OYUbbB3q8mWbSwezSPG5yykJZSWhWxZXNGU5sL7b72MD=w1043-h481-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"rag": {
+			"embed": "Raging Brachydios MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVqQR5KXlpdJOqMnOxrlV068eQHgYSk2YtkzRuZhbauq_AWB245y8EtnIxFnkozPbsFqDud86pqUR7vwdRxI2wuIxMettUF78RQtAeEWGVUb1HzQxg4Xcim9sta1nurVLSHikzEGAWxsLwgevMmVLRS=w1044-h618-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["rbra"]
+		},
+		"raj": {
+			"embed": "Rajang MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUU-Pn54M1BDH5OLcsj2WJLJKX2N8V2Yidi9GFgO3qCDdb5wK_yLnqTzV_-YhjArM_GeTJ-NUcOLhN-3RBCPXQ3KKinsVvFJY0PxYmMPRnH_fQfz5cYTfNxJ7A6lv7y1wKBIlUGe7ffI4MzteXuMbWw=w1042-h508-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["jang"]
+		},
+		"ratha": {
+			"embed": "Rathalos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXkFXZIhjw_PFPQmjiLQ4fNrTxiQ4lcMudPSe8TNi8zSSdVYY_DzvfKKHoV_jN1e53tIZL4WGc6vHy2FtXyUDK3Ozm3_BR_AaszTqmGsV8eh2GWh86hvo5fwLbiYMNihn3VTsjEeFlJ3oYhEs0tA1gZ=w1043-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["los"]
+		},
+		"gar": {
+			"embed": "Yian Garuga MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXtbRUsJ6v4wuInvebMU5voSmDSygaWJAZh5p-gy975frBxYJ53UABDCJJ1Q-b8qE3pAvdsI571n-FZeZhBll7vyNugfoiLENj2sgR7DIwnLexfhDwPU62ca-NNgYpyeSgHvZmIP-xD1BFhZYIRKyaw=w1042-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["yian g"]
+		},
+		"kut": {
+			"embed": "Yian Kut-Ku MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUfIGaknx1BIXEqGov2D08GRUtgweCqcr6mJGzzvXm4onBFN9GbIsc82gMGPb-nmEnj5Gkj_QD3BfDGS_wRr_93sWrpHd4W5pd9UsK1XjLO5tZur2gQ2vOr0B7Ei5WScyJLsWXHXVRfu8V5qvttXpFW=w1042-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["yian k"]
+		},
+		"rathi": {
+			"embed": "Rathian MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVJemTzR-el6X7HMOx7m0-oexqNsrxzAP3RWNSeN514quxMmAjtjBlpeDMb0rAAATpDVaXoGHmqPCQ5EyNW8pjjn0eRDrOFtR8vv2PjUQdxXl2Mw_xfmEBo3SaggIDnk0AQLJ-qVwlqjIi70Y09E68C=w1044-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["ian"]
+		},
+		"redh": {
+			"embed": "Redhelm Arzuros MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUVKfdIQralkaZ1e339WgqYAGyQIxQ_c4nM5EmlHAB3gC-C9JEnTeXr2xp_Ma-O5HlNYthCS_NrmG30td-llrq8er3JmsCIoN5k7ev0G0bTosMle5Wo63KgE6rwUI41Jkqf-23AcKUI0McnT113XA0-=w1044-h481-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["rh"]
+		},
+		"roy": {
+			"embed": "Royal Ludroth MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXmsN_sjXQFD5jas-LfQhoJ5KJpmMsZgi00oUfCIQ0D8VpPkRRhQasZ-FPOOiQ4jWonUS5Ds5v9MqAKDQxM-9WoR-YQ8x1rrIxfOOXb7KNOVUuKg-Rk93RI3uwzLbBy9svoBpWXyTJTTKwnNTpjjlse=w1043-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["lud"]
+		},
+		"rus": {
+			"embed": "Rustrazor Ceanataur MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVIAOoo6S7nIC9JplaIe--lpcWQFuHCI-711tr9uleoBgZwxnaUiN90Fm3MOwx4tXbWNRYyimOaK8kNYV2DvB8c34gGezYFthD6RpBrQFfKUqNFdg6he5gqEWKKSvE1AM25s60pHtQ8NmOjROpxIrnu=w1043-h647-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["rr"]
+		},
+		"sav": {
+			"embed": "Savage Deviljho MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVRYASLOUAgqqGHzJBehS1D2Y7IVnT-lc0YlLulCUYKecMjMLkkNHBws-D1UeqawyhuhPt-WiJuMrvZQXrZoytb0z-T6kjpNNQ8RgI0z6rg6PTvAINBnL_9iFI6twlZ8WSlBa4jQxpI5ODYOFvja1wv=w1042-h592-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["sjho", "sdev"]
+		},
+		"seltas q": {
+			"embed": "Seltas Queen MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWMUo3xz52w31UEOV1UeUEkJ4xDYH8qQxdj19vc4vsa9HweL3OuPtCvUzjEsOtYm53wiXKYcrg4bWt42UYFJoFk5PacdfQstCn9fe__p7GOCEbXQFkfK1TFVTbKV84q9mIekgUJY6jbMSc647kUhhqA=w1043-h483-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["sq"]
+		},
+		"sel": {
+			"embed": "Seltas MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXm6wJs_2xCFbelgo0bIFSVZhcnjdUM3LUPiqt2B-JerDKfOMo_l3ilmoBY7vQi44kYEyDPQ5R6f75adYrMAoFfR0zlTdGFFV8Yy8Gusll3OtER0gn-quSyjKCP_22OPbzt3EcvmhuvoVDrKDuVXLJ3=w1044-h428-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"ser": {
+			"embed": "Seregios MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWir_QmfGGOmX7vDFmbqqgPle37N3mlzpus6uYjGNdgWD03ei5BsHkCoYycPelEB_3xXig4xkdsU5fm40FTAnYjWx0WCbTRL0Acf832Kmyo5ZTLjz2uHIwKCZMIIi6pQFkIl33EZDWFSpePM-7H9KTA=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["steve"]
+		},
+		"shag": {
+			"embed": "Shagaru Magala MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXZOsk5Uv2fFe4nkTX1bkjxaRwPhb3JSK7E5Ia0gDi2E_5w9MznVOTRfS8w6ScKt2Wm1xcoyDNPWeOfMvZyM2YopBqEtae2z_ug0SfKTI_A-CvHayerYNnM4lLdymqgp1qdBHppF68D1yCNANsXDcdX=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"sho": {
+			"embed": "Shogun Ceanataur MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVr71a_jfBS2aop_uDxJDqfXpIcaEEHoqp1p4RYkwsM364u-M7ncHyuLf_4J-B7y2UTISrUHCLzYXUNsLPxRPwAmYptstt2WHkVUjcXTn3xIPoVHZ1815Hd4E57AtS7mcOp1U_thuQFxuoWq2XMStd-=w1042-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["cean"]
+		},
+		"silverw": {
+			"embed": "Silverwind Nargacuga MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVSg-0_0y0mPnFjjQpqP_N_NiabsTyYxTD8e9rR_9slOprJ3TCANdKyP0yCWkw8xiZlDwbeZeRS2XAXSxm1NoNXjRWQUeQWyudC-qiktkThq5JkkF3v2wMibya9OpZpLwBBkQi02jUMUJkWbguovFOG=w1043-h676-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["sw"]
+		},
+		"sil": {
+			"embed": "Silver Rathalos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV2FN1-WYwhRpyvlGrB1t-KUfQeEjxf14SFnDs5wBt0FCkWbGDwAL4HYSE5n4R3m9uT7H7OUNfhIhX2joHlVTvttABaGiCLkdeyFg7fEf1UyKeT2iOltV_dFh1jbbgUZj1DXouV-r5pqByUYkz8Gxfa=w1043-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"sno": {
+			"embed": "Snowbaron Lagombi MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVdcizg2zcfwMSNHagD8A4R0rzosb5PINGWwaMDmBsHLQlJ9pJyhNW3c1-NVbQIz0NhmHueFhS26UL4uah1w3HPyXH18ol_-LFKlJIowIMFeEm4bjA9rhnIC3xKbogiuKkoFOdgXcyB0fG2UzPGUjQQ=w1044-h426-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["sb"]
+		},
+		"sou": {
+			"embed": "Soulseer Mizutsune MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVD50e6FHr4OR9TzSzdbQzfBoAYslvTR8Oy_qbfu-2PQOLjeUfig2kDrfA6CRGJW-U1t0_9Vsxe5Zn0j-Y2EKgnnIeYSXm8ynlr3-1k2eMQUbg7CWnCyVwiLLqpytRIV7fJjlgefqOvY1azAYGKIr7U=w1042-h702-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["ss"]
+		},
+		"sto": {
+			"embed": "Stonefist Hermitaur MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUyWJWSaiJykpzOykpUaPu4uPUfIZGBXsZmuI8407ZWqJofcEVG413pubus8_h29B4yGw_XFRrYGHQkwsB5W-T6D6njhjZaZ1hOi6BNv6PH-EpZtki-T8fAzPwn3wxUE1JrnPBdlnQi_l6A3CU78F9H=w1043-h647-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["sf"]
+		},
+		"teo": {
+			"embed": "Teostra MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWpku_jhNBpqhZvyb8UgsM_CsRcIxqqBDWM2TKgpq9liF0HYy4OfLq0gywAsQinExpAuD2b1YcTUOmVNPFqRXLm60-xaBdD7v2__GHUjEL8yoJMLimsebKz0BVl8ixz5wOmfmlRHA_h5HVGgM4HrDIj=w1043-h675-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"tet": {
+			"embed": "Tetsucabra MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWkIL6Ufgkx3677BkABjPLSErPOKfVB_9ElZ0FqJ8mJt-yLApNIyz_LV7PVql4h_t9ngqS9XPAHLaOa4UnFHHLBBe13mOF1Nh_k0xqVACJNN-1NYKudbeda1791oBdP2g0dQfPeFZe47NtDVZP7NDES=w1042-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["frog"]
+		},
+		"thu": {
+			"embed": "Thunderlord Zinogre MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVF35F7D2F1XOn3iPTifnNAs_fuqr081eEHeQu27UgFUghwrzGal41eUpnMemdzW7gcfqHI0LgVTrCo2v3bv6RKuQuMPcfTX7BrVTj8Oy2_A1SuY3BWT4AUSRZyZjDEUFnQXMmkLFQiWQU__VZcxBGH=w1042-h730-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["tl"]
+		},
+		"tig": {
+			"embed": "Tigrex MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLUaamlJfXeXImxxOs88d9EZ16WCzM1fQHzrj1PVslt0_vTWZSrp2tXI_yifpHcMG65ssZFMc2Uj_q5ddGoCfR5FfifPOP6-KSP6fL-bKVcF-NMUksV3YJtXkqSOMq2P_kd-5S3xp8jWFLplsi5kTfbr=w1043-h620-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["rex"]
+		},
+		"uka": {
+			"embed": "Ukanlos MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVXQVV2mrBXaPI2TEeqhIvYEPAlSWVip6x5GeKQ92DWmJkCIDUgQUCCwbxQ4JA49fxeWVci68Jdv3nPGCN7RbMGTGtnHkG6diaxZFIyS3Yuu6_tWFkLbWY8KzJ0LymRxs_gEtoFcP7Vp2tQU3M6J-gk=w1042-h676-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"ura": {
+			"embed": "Uragaan MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLV_FYD634pjpgW23M3yO60GkjfuSZynavNUKM52upmhYPz4pHK5Emd-hunwQPxmXn79BV7EZu6nHLIPwwz_fRiomRtfHzFA78NH2jR2sUk5AknNs9oOW6DyiOTNAs8f56PoEHfpxhCfUz_UscZky6Dg=w1042-h537-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"val": {
+			"embed": "Valstrax MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLW_2asOsnOyCaYwTzClnva_TINRXaQMxediUqtKM3F9-7_OQtEjOBWtbOPHkWPQzTNUeH4jlWtd8778iia3iHGdWSxOgtLcg7sHKbTOMkKwrpm9p6KqY-WFrzqRn9wngb59MnqS7x2xr2x1KtqdCpgW=w1042-h676-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["rocket", "comet"]
+		},
+		"vel": {
+			"embed": "Velocidrome MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLVOdVgYO3iwTeZ3KrWXLKpCrUhpOJ4HWX_xvJZpW8rf4BryfwGEM1ItYrwREISZElzOky2yvluKBoxwusOO-x2MAeANYyMGlfDGZRFD9ycM4GxEdViFUZkiOyPJ71HW8tK0II_-KvEzkqPEg1-JUok6=w1043-h398-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["vdrom"]
+		},
+		"vol": {
+			"embed": "Volvidon MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXkOK0N-xOWl7PxxbSUyf1iR1c7v4EdwJIjPEH3Vv0slse_qvDq7ybY1Fytt3O8gsoA9sXJ3IfNsiobFpmmzGpquxYiBwofhNbP-lRHtLw4AN5o9J-Ly96ohAYTB1X-ZJgd88Vxpu7Qa2y0zY8pO4__=w1042-h482-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex"
+		},
+		"zam": {
+			"embed": "Zamtrios MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLWvE7D11Go_m11TuOfpyFSsWbprVhwrMpwhAxJ8-oPR2UaiZ_xEK2nQcWI-oXB-yhKoF41g2Y674aimhRzXr2Yhn5nh_NoSspO3nBk36Pn1Jy6BtRN_WXYgh_tuw8dq-b8DbfWx5FQgFvI-oXR6mLM2=w1043-h647-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["shark"]
+		},
+		"zin": {
+			"embed": "Zinogre MHXX",
+			"hitbox": "https://lh3.googleusercontent.com/pw/AM-JKLXeBVuJE3VTHVZWNtrcI0Rq9eStazRXvvhpKqwWDuaugilQyBDJida7bJhZEB3qa09_LD0flGNeCA3vHQtltbMiO45x4pAR14KQvqMQFc4F5ij73-HDjsNTJCy6bRaSLf6pknHPpwAF3PVcOkE1CnfX=w1043-h731-no?authuser=0",
+			"source": "Credits:\nPing's MHXX Dex https://sites.google.com/site/pingsdex/pingsmhxxdex",
+			"alt_name": ["puppy"]
+		}
+	}
+}
